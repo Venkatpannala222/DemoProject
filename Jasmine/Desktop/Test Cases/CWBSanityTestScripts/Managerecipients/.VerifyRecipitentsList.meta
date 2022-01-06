@@ -1,0 +1,10 @@
+{
+    "testCaseName": "VerifyRecipitentsList",
+    "testSuiteName": "Test Cases/CWBSanityTestScripts/Managerecipients",
+    "channelName": "Desktop",
+    "userCode": true,
+    "usedBy": [
+        "CWBOLBSanity/ManageRecipient.js",
+        "CWBOLBSanity/CWBSanitySample.js"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "testCaseName": "UsermanagementCreateCustomRole",
+    "testSuiteName": "Test Cases/CWBSanityTestScripts/UserManagement",
+    "channelName": "Desktop",
+    "usedBy": [
+        "CWBOLBSanity/Usermanagement.js",
+        "CWBOLBSanity/CWBSanitySample.js",
+        "CWBAutomation/CWBRegressionBBuser.js"
+    ],
+    "userCode": true
+}

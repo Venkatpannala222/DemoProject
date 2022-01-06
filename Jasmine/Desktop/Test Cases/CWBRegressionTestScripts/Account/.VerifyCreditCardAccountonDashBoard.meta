@@ -1,0 +1,7 @@
+{
+    "testCaseName": "VerifyCreditCardAccountonDashBoard",
+    "testSuiteName": "Test Cases/CWBAutomation/Account",
+    "channelName": "Desktop",
+    "userCode": true,
+    "usedBy": []
+}

@@ -1,0 +1,15 @@
+{
+    "groupName": "Test Suites/CWBOLBSanity",
+    "testSuiteName": "Messages",
+    "testCaseInfo": [
+        "CWBSanityTestScripts/Common/AllAccounts.js",
+        "CWBSanityTestScripts/Common/Messages.js",
+        "CWBSanityTestScripts/Accountsmodule/Sample.js",
+        "CWBSanityTestScripts/Messages/CreateNewMessage.js",
+        "CWBSanityTestScripts/Messages/DeleteMessage.js",
+        "CWBSanityTestScripts/Messages/ReplytoMessage.js",
+        "CWBSanityTestScripts/Messages/RestoreMessage.js",
+        "CWBSanityTestScripts/Messages/Messages_AlertsTab.js"
+    ],
+    "usedBy": []
+}

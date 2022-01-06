@@ -1,0 +1,8 @@
+{
+    "groupName": "Test Suites",
+    "testSuiteName": "temp",
+    "testCaseInfo": [
+        "RBTestScripts/Accounts/VerifyCheckingAcc_ContextualMenu_Transfer.js"
+    ],
+    "usedBy": []
+}

@@ -1,0 +1,11 @@
+{
+    "groupName": "Test Suites/CWBOLBSanity",
+    "testSuiteName": "ForeignExchangeRateCalculator",
+    "testCaseInfo": [
+        "CWBSanityTestScripts/Common/AllAccounts.js",
+        "CWBSanityTestScripts/Common/ExchangeCalculator.js",
+        "CWBSanityTestScripts/Foreignexchangecalculator/TransferForeignExchangeCalculator.js",
+        "CWBSanityTestScripts/Foreignexchangecalculator/ForeginExchangeCash.js"
+    ],
+    "usedBy": []
+}

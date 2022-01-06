@@ -1,0 +1,10 @@
+{
+    "groupName": "Test Suites/CWBOLBSanity",
+    "testSuiteName": "Prelogin",
+    "testCaseInfo": [
+        "CWBSanityTestScripts/Prelogin/PreLogin_ContactUs.js",
+        "CWBSanityTestScripts/Prelogin/AboutUS-TermsConditions.js",
+        "CWBSanityTestScripts/Common/PreLogin.js"
+    ],
+    "usedBy": []
+}

@@ -1,0 +1,9 @@
+{
+    "testCaseName": "ValidateDownloadUnderlyingData",
+    "testSuiteName": "Test Cases/R1Dot1/MyCashFlows",
+    "channelName": "Desktop",
+    "usedBy": [
+        "CWBAutomation/CashFlow.js"
+    ],
+    "userCode": true
+}

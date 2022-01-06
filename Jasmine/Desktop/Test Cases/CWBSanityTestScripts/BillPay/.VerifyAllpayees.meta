@@ -1,0 +1,7 @@
+{
+    "testCaseName": "VerifyAllpayees",
+    "testSuiteName": "Test Cases/CWBSanityTestScripts/BillPay",
+    "channelName": "Desktop",
+    "userCode": true,
+    "usedBy": []
+}

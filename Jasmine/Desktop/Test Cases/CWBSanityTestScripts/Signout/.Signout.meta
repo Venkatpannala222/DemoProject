@@ -1,0 +1,9 @@
+{
+    "testCaseName": "Signout",
+    "testSuiteName": "Test Cases/CWBSanityTestScripts/Signout",
+    "channelName": "Desktop",
+    "userCode": true,
+    "usedBy": [
+        "CWBOLBSanity/Signout.js"
+    ]
+}

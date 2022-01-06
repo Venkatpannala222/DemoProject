@@ -1,0 +1,86 @@
+{
+    "testCaseName": "BB",
+    "testSuiteName": "Test Cases/R1Dot1/MyCashFlows",
+    "channelName": "Desktop",
+    "steps": [
+        {
+            "actionName": "Wait For",
+            "actionIconClassName": "assets/widget_icons/loading.svg",
+            "activeActionIconClassName": "assets/widget_icons/activeloading.svg",
+            "entity": "frmRecievableUpcoming",
+            "contextMenu": {
+                "isAssertEnabled": false,
+                "isWaitForEnabled": false,
+                "isScrollToRowEnabled": false,
+                "isScreenShotEnabled": false
+            },
+            "actualMessage": {
+                "UUID": "d0c684fd-01b0-e550-4f73-34be3853ec4f",
+                "messageType": "waitFor",
+                "messageData": {
+                    "widgetType": "waitFor",
+                    "metadata": {
+                        "waitFor": "frmRecievableUpcoming"
+                    }
+                }
+            },
+            "codeNotReady": false
+        },
+        {
+            "displayReady": true,
+            "actionName": "Touch",
+            "actionIconClassName": "assets/widget_icons/tap.svg",
+            "activeActionIconClassName": "assets/widget_icons/activetap.svg",
+            "entity": "frmRecievableUpcoming",
+            "contextMenu": {
+                "isScrollToRowEnabled": false,
+                "isScreenShotEnabled": false
+            },
+            "actualMessage": {
+                "messageType": "Record",
+                "messageData": {
+                    "DeviceID": "web",
+                    "widgetPath": "frmRecievableUpcoming",
+                    "widgetType": "widget",
+                    "actionType": "touch",
+                    "metadata": {
+                        "start": null,
+                        "move": null,
+                        "end": [
+                            184,
+                            102
+                        ]
+                    }
+                },
+                "UUID": "5942b52a-9e05-4f40-bdcf-9caf47070810"
+            },
+            "codeNotReady": false,
+            "dispMeta": "",
+            "metaEditable": false
+        },
+        {
+            "displayReady": true,
+            "actionName": "Click",
+            "actionIconClassName": "assets/widget_icons/tap.svg",
+            "activeActionIconClassName": "assets/widget_icons/activetap.svg",
+            "entity": "frmRecievableUpcoming.customheadernew.flxAccounts",
+            "contextMenu": {
+                "isScrollToRowEnabled": false,
+                "isScreenShotEnabled": false
+            },
+            "actualMessage": {
+                "messageType": "Record",
+                "messageData": {
+                    "DeviceID": "web",
+                    "widgetPath": "frmRecievableUpcoming.customheadernew.flxAccounts",
+                    "widgetType": "flexcontainer",
+                    "actionType": "click"
+                },
+                "UUID": "9a0baa32-b3a7-49d0-9253-6a2bdbc6376f"
+            },
+            "codeNotReady": false,
+            "metaEditable": false
+        }
+    ],
+    "usedBy": []
+}

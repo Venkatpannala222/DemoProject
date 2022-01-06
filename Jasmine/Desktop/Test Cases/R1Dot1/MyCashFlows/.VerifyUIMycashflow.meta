@@ -1,0 +1,9 @@
+{
+    "testCaseName": "VerifyUIMycashflow",
+    "testSuiteName": "Test Cases/R1Dot1/MyCashFlows",
+    "channelName": "Desktop",
+    "usedBy": [
+        "CWBAutomation/BBNavigation.js"
+    ],
+    "userCode": true
+}

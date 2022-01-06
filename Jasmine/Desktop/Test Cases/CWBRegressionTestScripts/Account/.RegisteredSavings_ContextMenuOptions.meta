@@ -1,0 +1,9 @@
+{
+    "testCaseName": "RegisteredSavings_ContextMenuOptions",
+    "testSuiteName": "Test Cases/CWBAutomation/Account",
+    "channelName": "Desktop",
+    "userCode": true,
+    "usedBy": [
+        "CWBAutomation/AccountSuite.js"
+    ]
+}

@@ -1,0 +1,583 @@
+{
+    "testCaseName": "SampleAddandDeleteInteracRecipient",
+    "testSuiteName": "Test Cases/CWBSanityTestScripts/Interacetransfer",
+    "channelName": "Desktop",
+    "steps": [
+        {
+            "displayReady": true,
+            "actionName": "Click",
+            "actionIconClassName": "assets/widget_icons/tap.svg",
+            "activeActionIconClassName": "assets/widget_icons/activetap.svg",
+            "entity": "frmAccountsLanding.customheader.topmenu.flxTransfersAndPay",
+            "contextMenu": {
+                "isScrollToRowEnabled": false,
+                "isScreenShotEnabled": false
+            },
+            "actualMessage": {
+                "messageType": "Record",
+                "messageData": {
+                    "DeviceID": "web",
+                    "widgetPath": "frmAccountsLanding.customheader.topmenu.flxTransfersAndPay",
+                    "widgetType": "flexcontainer",
+                    "actionType": "click"
+                },
+                "UUID": "c4336d96-1176-4a56-a9d2-b78ea432912c"
+            },
+            "codeNotReady": false,
+            "metaEditable": false
+        },
+        {
+            "displayReady": true,
+            "actionName": "Click",
+            "actionIconClassName": "assets/widget_icons/tap.svg",
+            "activeActionIconClassName": "assets/widget_icons/activetap.svg",
+            "entity": "frmAccountsLanding.customheader.topmenu.flxSendMoney",
+            "contextMenu": {
+                "isScrollToRowEnabled": false,
+                "isScreenShotEnabled": false
+            },
+            "actualMessage": {
+                "messageType": "Record",
+                "messageData": {
+                    "DeviceID": "web",
+                    "widgetPath": "frmAccountsLanding.customheader.topmenu.flxSendMoney",
+                    "widgetType": "flexcontainer",
+                    "actionType": "click"
+                },
+                "UUID": "e0ff1581-4bf6-4b7d-a70a-e4261dcf3ef1"
+            },
+            "codeNotReady": false,
+            "metaEditable": false
+        },
+        {
+            "displayReady": true,
+            "actionName": "Click",
+            "actionIconClassName": "assets/widget_icons/tap.svg",
+            "activeActionIconClassName": "assets/widget_icons/activetap.svg",
+            "entity": "frmFastManagePayee.rtxInteraceTransfer",
+            "contextMenu": {
+                "isScrollToRowEnabled": false,
+                "isScreenShotEnabled": false
+            },
+            "actualMessage": {
+                "messageType": "Record",
+                "messageData": {
+                    "DeviceID": "web",
+                    "widgetPath": "frmFastManagePayee.rtxInteraceTransfer",
+                    "widgetType": "richtext",
+                    "actionType": "click",
+                    "metadata": {
+                        "linkText": "Interac"
+                    }
+                },
+                "UUID": "031fdb5d-b079-402d-87c7-4a7a2e31ac1f"
+            },
+            "codeNotReady": false,
+            "dispMeta": "Interac",
+            "metaEditable": false
+        },
+        {
+            "displayReady": true,
+            "actionName": "Click",
+            "actionIconClassName": "assets/widget_icons/tap.svg",
+            "activeActionIconClassName": "assets/widget_icons/activetap.svg",
+            "entity": "frmFastManagePayee.flxAddReciepient",
+            "contextMenu": {
+                "isScrollToRowEnabled": false,
+                "isScreenShotEnabled": false
+            },
+            "actualMessage": {
+                "messageType": "Record",
+                "messageData": {
+                    "DeviceID": "web",
+                    "widgetPath": "frmFastManagePayee.flxAddReciepient",
+                    "widgetType": "flexcontainer",
+                    "actionType": "click"
+                },
+                "UUID": "727d5b7e-7c75-4d48-9595-a85f5bc08d7b"
+            },
+            "codeNotReady": false,
+            "metaEditable": false
+        },
+        {
+            "displayReady": true,
+            "actionName": "Type Text",
+            "actionIconClassName": "assets/widget_icons/text_box.svg",
+            "activeActionIconClassName": "assets/widget_icons/activetext_box.svg",
+            "entity": "frmeTransferAddRecipient.tbxRecipientName",
+            "contextMenu": {
+                "isScrollToRowEnabled": false,
+                "isScreenShotEnabled": false
+            },
+            "actualMessage": {
+                "messageType": "Record",
+                "messageData": {
+                    "DeviceID": "web",
+                    "widgetPath": "frmeTransferAddRecipient.tbxRecipientName",
+                    "widgetType": "textbox",
+                    "actionType": "enterText",
+                    "metadata": {
+                        "text": "Jasmine"
+                    }
+                },
+                "UUID": "c3ee82be-4595-4e87-9cb3-cd6d832c91bb",
+                "_cached": true
+            },
+            "codeNotReady": false,
+            "_cached": true,
+            "dispMeta": "Jasmine",
+            "metaEditable": true
+        },
+        {
+            "displayReady": true,
+            "actionName": "Type Text",
+            "actionIconClassName": "assets/widget_icons/text_box.svg",
+            "activeActionIconClassName": "assets/widget_icons/activetext_box.svg",
+            "entity": "frmeTransferAddRecipient.tbxMobileNumber",
+            "contextMenu": {
+                "isScrollToRowEnabled": false,
+                "isScreenShotEnabled": false
+            },
+            "actualMessage": {
+                "messageType": "Record",
+                "messageData": {
+                    "DeviceID": "web",
+                    "widgetPath": "frmeTransferAddRecipient.tbxMobileNumber",
+                    "widgetType": "textbox",
+                    "actionType": "enterText",
+                    "metadata": {
+                        "text": "(250) 728-1928"
+                    }
+                },
+                "UUID": "39384974-0158-4555-95ef-d00bdc0a1c94",
+                "_cached": true
+            },
+            "codeNotReady": false,
+            "_cached": true,
+            "dispMeta": "(250) 728-1928",
+            "metaEditable": true
+        },
+        {
+            "displayReady": true,
+            "actionName": "Select Item",
+            "actionIconClassName": "assets/widget_icons/picker.svg",
+            "activeActionIconClassName": "assets/widget_icons/activepicker.svg",
+            "entity": "frmeTransferAddRecipient.lbxSendTransferByMethod",
+            "contextMenu": {
+                "isScrollToRowEnabled": false,
+                "isScreenShotEnabled": false
+            },
+            "actualMessage": {
+                "messageType": "Record",
+                "messageData": {
+                    "DeviceID": "web",
+                    "widgetPath": "frmeTransferAddRecipient.lbxSendTransferByMethod",
+                    "widgetType": "listbox",
+                    "actionType": "selectItem",
+                    "metadata": {
+                        "selection": "MobileNumber"
+                    }
+                },
+                "UUID": "ecdf4c67-579e-4eff-a0cb-11ce4ff2b9e2"
+            },
+            "codeNotReady": false,
+            "dispMeta": "MobileNumber",
+            "metaEditable": false
+        },
+        {
+            "displayReady": true,
+            "actionName": "Click",
+            "actionIconClassName": "assets/widget_icons/tap.svg",
+            "activeActionIconClassName": "assets/widget_icons/activetap.svg",
+            "entity": "frmeTransferAddRecipient.btnAddRecipientContinue",
+            "contextMenu": {
+                "isScrollToRowEnabled": false,
+                "isScreenShotEnabled": false
+            },
+            "actualMessage": {
+                "messageType": "Record",
+                "messageData": {
+                    "DeviceID": "web",
+                    "widgetPath": "frmeTransferAddRecipient.btnAddRecipientContinue",
+                    "widgetType": "button",
+                    "actionType": "click"
+                },
+                "UUID": "120a52d5-7e12-46e1-b0c0-9f6e32c73a89"
+            },
+            "codeNotReady": false,
+            "metaEditable": false
+        },
+        {
+            "displayReady": true,
+            "actionName": "Type Text",
+            "actionIconClassName": "assets/widget_icons/text_box.svg",
+            "activeActionIconClassName": "assets/widget_icons/activetext_box.svg",
+            "entity": "frmeTransferAddRecipientSecurityInfo.tbxSecurityQuestion",
+            "contextMenu": {
+                "isScrollToRowEnabled": false,
+                "isScreenShotEnabled": false
+            },
+            "actualMessage": {
+                "messageType": "Record",
+                "messageData": {
+                    "DeviceID": "web",
+                    "widgetPath": "frmeTransferAddRecipientSecurityInfo.tbxSecurityQuestion",
+                    "widgetType": "textbox",
+                    "actionType": "enterText",
+                    "metadata": {
+                        "text": "What are u doing"
+                    }
+                },
+                "UUID": "1084a00b-1b2d-41b7-b93d-011312269fc0",
+                "_cached": true
+            },
+            "codeNotReady": false,
+            "_cached": true,
+            "dispMeta": "What are u doing",
+            "metaEditable": true
+        },
+        {
+            "displayReady": true,
+            "actionName": "Type Text",
+            "actionIconClassName": "assets/widget_icons/text_box.svg",
+            "activeActionIconClassName": "assets/widget_icons/activetext_box.svg",
+            "entity": "frmeTransferAddRecipientSecurityInfo.tbxAnswer",
+            "contextMenu": {
+                "isScrollToRowEnabled": false,
+                "isScreenShotEnabled": false
+            },
+            "actualMessage": {
+                "messageType": "Record",
+                "messageData": {
+                    "DeviceID": "web",
+                    "widgetPath": "frmeTransferAddRecipientSecurityInfo.tbxAnswer",
+                    "widgetType": "textbox",
+                    "actionType": "enterText",
+                    "metadata": {
+                        "text": "AddEtransferRecipient"
+                    }
+                },
+                "UUID": "54e01774-91f3-4dd1-a15e-befd6ebbc44b",
+                "_cached": true
+            },
+            "codeNotReady": false,
+            "_cached": true,
+            "dispMeta": "AddEtransferRecipient",
+            "metaEditable": true
+        },
+        {
+            "displayReady": true,
+            "actionName": "Click",
+            "actionIconClassName": "assets/widget_icons/tap.svg",
+            "activeActionIconClassName": "assets/widget_icons/activetap.svg",
+            "entity": "frmeTransferAddRecipientSecurityInfo.flxAddRecipientSecurityInfo",
+            "contextMenu": {
+                "isScrollToRowEnabled": false,
+                "isScreenShotEnabled": false
+            },
+            "actualMessage": {
+                "messageType": "Record",
+                "messageData": {
+                    "DeviceID": "web",
+                    "widgetPath": "frmeTransferAddRecipientSecurityInfo.flxAddRecipientSecurityInfo",
+                    "widgetType": "flexcontainer",
+                    "actionType": "click"
+                },
+                "UUID": "ef5336a6-ed29-405e-bcf5-dd723fdc303a"
+            },
+            "codeNotReady": false,
+            "metaEditable": false
+        },
+        {
+            "displayReady": true,
+            "actionName": "Type Text",
+            "actionIconClassName": "assets/widget_icons/text_box.svg",
+            "activeActionIconClassName": "assets/widget_icons/activetext_box.svg",
+            "entity": "frmeTransferAddRecipientSecurityInfo.tbxConfirmAnswer",
+            "contextMenu": {
+                "isScrollToRowEnabled": false,
+                "isScreenShotEnabled": false
+            },
+            "actualMessage": {
+                "messageType": "Record",
+                "messageData": {
+                    "DeviceID": "web",
+                    "widgetPath": "frmeTransferAddRecipientSecurityInfo.tbxConfirmAnswer",
+                    "widgetType": "textbox",
+                    "actionType": "enterText",
+                    "metadata": {
+                        "text": "AddEtransferRecipient"
+                    }
+                },
+                "UUID": "a936a031-b8ec-4694-97d9-2dea3b5a6597"
+            },
+            "codeNotReady": false,
+            "dispMeta": "AddEtransferRecipient",
+            "metaEditable": true
+        },
+        {
+            "displayReady": true,
+            "actionName": "Click",
+            "actionIconClassName": "assets/widget_icons/tap.svg",
+            "activeActionIconClassName": "assets/widget_icons/activetap.svg",
+            "entity": "frmeTransferAddRecipientSecurityInfo.btnUpdateSecurityInfo",
+            "contextMenu": {
+                "isScrollToRowEnabled": false,
+                "isScreenShotEnabled": false
+            },
+            "actualMessage": {
+                "messageType": "Record",
+                "messageData": {
+                    "DeviceID": "web",
+                    "widgetPath": "frmeTransferAddRecipientSecurityInfo.btnUpdateSecurityInfo",
+                    "widgetType": "button",
+                    "actionType": "click"
+                },
+                "UUID": "f130f9a2-2bd5-4533-bcac-fcbe44a41bdd"
+            },
+            "codeNotReady": false,
+            "metaEditable": false
+        },
+        {
+            "displayReady": true,
+            "actionName": "Click",
+            "actionIconClassName": "assets/widget_icons/tap.svg",
+            "activeActionIconClassName": "assets/widget_icons/activetap.svg",
+            "entity": "frmeTransferAddRecipientConfirm.btnConfirm",
+            "contextMenu": {
+                "isScrollToRowEnabled": false,
+                "isScreenShotEnabled": false
+            },
+            "actualMessage": {
+                "messageType": "Record",
+                "messageData": {
+                    "DeviceID": "web",
+                    "widgetPath": "frmeTransferAddRecipientConfirm.btnConfirm",
+                    "widgetType": "button",
+                    "actionType": "click"
+                },
+                "UUID": "977c7224-482f-4162-9e7b-73e11722d42e"
+            },
+            "codeNotReady": false,
+            "metaEditable": false
+        },
+        {
+            "displayReady": true,
+            "actionName": "Click",
+            "actionIconClassName": "assets/widget_icons/tap.svg",
+            "activeActionIconClassName": "assets/widget_icons/activetap.svg",
+            "entity": "frmeTransferAddRecipientAcknowledgement.customheadernew.flxTransfersAndPay",
+            "contextMenu": {
+                "isScrollToRowEnabled": false,
+                "isScreenShotEnabled": false
+            },
+            "actualMessage": {
+                "messageType": "Record",
+                "messageData": {
+                    "DeviceID": "web",
+                    "widgetPath": "frmeTransferAddRecipientAcknowledgement.customheadernew.flxTransfersAndPay",
+                    "widgetType": "flexcontainer",
+                    "actionType": "click"
+                },
+                "UUID": "5e821aa8-c421-49c1-aa0c-4ad58c9ecd3b"
+            },
+            "codeNotReady": false,
+            "metaEditable": false
+        },
+        {
+            "displayReady": true,
+            "actionName": "Click",
+            "actionIconClassName": "assets/widget_icons/tap.svg",
+            "activeActionIconClassName": "assets/widget_icons/activetap.svg",
+            "entity": "frmeTransferAddRecipientAcknowledgement.customheadernew.flxSendMoney",
+            "contextMenu": {
+                "isScrollToRowEnabled": false,
+                "isScreenShotEnabled": false
+            },
+            "actualMessage": {
+                "messageType": "Record",
+                "messageData": {
+                    "DeviceID": "web",
+                    "widgetPath": "frmeTransferAddRecipientAcknowledgement.customheadernew.flxSendMoney",
+                    "widgetType": "flexcontainer",
+                    "actionType": "click"
+                },
+                "UUID": "45cbc09d-c889-4c16-9b06-2cd575bec3c3"
+            },
+            "codeNotReady": false,
+            "metaEditable": false
+        },
+        {
+            "displayReady": true,
+            "actionName": "Click",
+            "actionIconClassName": "assets/widget_icons/tap.svg",
+            "activeActionIconClassName": "assets/widget_icons/activetap.svg",
+            "entity": "frmFastManagePayee.rtxInteraceTransfer",
+            "contextMenu": {
+                "isScrollToRowEnabled": false,
+                "isScreenShotEnabled": false
+            },
+            "actualMessage": {
+                "messageType": "Record",
+                "messageData": {
+                    "DeviceID": "web",
+                    "widgetPath": "frmFastManagePayee.rtxInteraceTransfer",
+                    "widgetType": "richtext",
+                    "actionType": "click",
+                    "metadata": {
+                        "linkText": "Interac"
+                    }
+                },
+                "UUID": "94696d06-35be-4fa1-96bf-dae46436a334"
+            },
+            "codeNotReady": false,
+            "dispMeta": "Interac",
+            "metaEditable": false
+        },
+        {
+            "displayReady": true,
+            "actionName": "Type Text",
+            "actionIconClassName": "assets/widget_icons/text_box.svg",
+            "activeActionIconClassName": "assets/widget_icons/activetext_box.svg",
+            "entity": "frmFastManagePayee.Search1.txtSearch",
+            "contextMenu": {
+                "isScrollToRowEnabled": false,
+                "isScreenShotEnabled": false
+            },
+            "actualMessage": {
+                "messageType": "Record",
+                "messageData": {
+                    "DeviceID": "web",
+                    "widgetPath": "frmFastManagePayee.Search1.txtSearch",
+                    "widgetType": "textbox",
+                    "actionType": "enterText",
+                    "metadata": {
+                        "text": "JASMINE"
+                    }
+                },
+                "UUID": "79880e67-3d54-41ab-ac53-02c4040f68b1",
+                "_cached": true
+            },
+            "codeNotReady": false,
+            "_cached": true,
+            "dispMeta": "JASMINE",
+            "metaEditable": true
+        },
+        {
+            "displayReady": true,
+            "actionName": "Click",
+            "actionIconClassName": "assets/widget_icons/tap.svg",
+            "activeActionIconClassName": "assets/widget_icons/activetap.svg",
+            "entity": "frmFastManagePayee.Search1.btnConfirm",
+            "contextMenu": {
+                "isScrollToRowEnabled": false,
+                "isScreenShotEnabled": false
+            },
+            "actualMessage": {
+                "messageType": "Record",
+                "messageData": {
+                    "DeviceID": "web",
+                    "widgetPath": "frmFastManagePayee.Search1.btnConfirm",
+                    "widgetType": "flexcontainer",
+                    "actionType": "click"
+                },
+                "UUID": "84955780-518a-4408-90b4-d90946ccdde8"
+            },
+            "codeNotReady": false,
+            "metaEditable": false
+        },
+        {
+            "displayReady": true,
+            "actionName": "Click",
+            "actionIconClassName": "assets/widget_icons/tap.svg",
+            "activeActionIconClassName": "assets/widget_icons/activetap.svg",
+            "entity": "frmFastManagePayee.segmentTransfers[0].flxDropdown",
+            "contextMenu": {
+                "isScrollToRowEnabled": true,
+                "isScreenShotEnabled": false
+            },
+            "actualMessage": {
+                "messageType": "Record",
+                "messageData": {
+                    "DeviceID": "web",
+                    "widgetPath": "frmFastManagePayee.segmentTransfers[0].flxDropdown",
+                    "widgetType": "flexcontainer",
+                    "actionType": "click"
+                },
+                "UUID": "beaee85c-d03e-464d-bdaf-00f8ed48379f"
+            },
+            "codeNotReady": false,
+            "metaEditable": false
+        },
+        {
+            "displayReady": true,
+            "actionName": "Click",
+            "actionIconClassName": "assets/widget_icons/tap.svg",
+            "activeActionIconClassName": "assets/widget_icons/activetap.svg",
+            "entity": "frmFastManagePayee.segmentTransfers[0].btnRemoveRecipient",
+            "contextMenu": {
+                "isScrollToRowEnabled": true,
+                "isScreenShotEnabled": false
+            },
+            "actualMessage": {
+                "messageType": "Record",
+                "messageData": {
+                    "DeviceID": "web",
+                    "widgetPath": "frmFastManagePayee.segmentTransfers[0].btnRemoveRecipient",
+                    "widgetType": "button",
+                    "actionType": "click"
+                },
+                "UUID": "0ece54cf-7def-498c-b0f0-4b9fd5ee0a7a"
+            },
+            "codeNotReady": false,
+            "metaEditable": false
+        },
+        {
+            "displayReady": true,
+            "actionName": "Click",
+            "actionIconClassName": "assets/widget_icons/tap.svg",
+            "activeActionIconClassName": "assets/widget_icons/activetap.svg",
+            "entity": "frmFastManagePayee.CustomPopup1.btnYes",
+            "contextMenu": {
+                "isScrollToRowEnabled": false,
+                "isScreenShotEnabled": false
+            },
+            "actualMessage": {
+                "messageType": "Record",
+                "messageData": {
+                    "DeviceID": "web",
+                    "widgetPath": "frmFastManagePayee.CustomPopup1.btnYes",
+                    "widgetType": "button",
+                    "actionType": "click"
+                },
+                "UUID": "eed0a338-584a-4834-9608-a403417e5729"
+            },
+            "codeNotReady": false,
+            "metaEditable": false
+        },
+        {
+            "displayReady": true,
+            "actionName": "Click",
+            "actionIconClassName": "assets/widget_icons/tap.svg",
+            "activeActionIconClassName": "assets/widget_icons/activetap.svg",
+            "entity": "frmFastManagePayee.customheadernew.flxAccounts",
+            "contextMenu": {
+                "isScrollToRowEnabled": false,
+                "isScreenShotEnabled": false
+            },
+            "actualMessage": {
+                "messageType": "Record",
+                "messageData": {
+                    "DeviceID": "web",
+                    "widgetPath": "frmFastManagePayee.customheadernew.flxAccounts",
+                    "widgetType": "flexcontainer",
+                    "actionType": "click"
+                },
+                "UUID": "0d50d98c-bbc2-4eae-87e3-262a2b64ee71"
+            },
+            "codeNotReady": false,
+            "metaEditable": false
+        }
+    ],
+    "usedBy": []
+}

@@ -1,0 +1,12 @@
+{
+    "testCaseName": "Cash_Flow",
+    "testSuiteName": "Test Cases/CWBBBRegressionTestScripts/BBCommon",
+    "channelName": "Desktop",
+    "userCode": true,
+    "usedBy": [
+        "CWBAutomation/CashFlow.js",
+        "CWBAutomation/BBNavigation.js",
+        "CWBAutomation/Receivables.js",
+        "CWBAutomation/TempR.js"
+    ]
+}

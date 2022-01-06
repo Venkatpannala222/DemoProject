@@ -1,0 +1,17 @@
+{
+    "groupName": "Test Suites/CWBAutomation",
+    "testSuiteName": "Messages",
+    "testCaseInfo": [
+        "CWBSanityTestScripts/Common/Messages.js",
+        "CWBSanityTestScripts/Common/AllAccounts.js",
+        "CWBSanityTestScripts/Accountsmodule/Sample.js",
+        "CWBRegressionTestScripts/Messages/CancelComposeMessage.js",
+        "CWBRegressionTestScripts/Messages/CancelDeleteMessageFlow.js",
+        "CWBRegressionTestScripts/Messages/Messages_DismissAlert.js",
+        "CWBRegressionTestScripts/Messages/SearchFunctionality.js",
+        "CWBRegressionTestScripts/Messages/VerifyAlerts_Messages_DashboardHeaderFlag.js",
+        "CWBRegressionTestScripts/Messages/VerifyMyMessagesTab.js",
+        "CWBRegressionTestScripts/Messages/VerifyRequestID_ChangeOwnership_Message.js"
+    ],
+    "usedBy": []
+}

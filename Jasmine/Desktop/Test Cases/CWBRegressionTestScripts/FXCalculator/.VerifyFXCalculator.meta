@@ -1,0 +1,9 @@
+{
+    "testCaseName": "VerifyFXCalculator",
+    "testSuiteName": "Test Cases/CWBRegressionTestScripts/FXCalculator",
+    "channelName": "Desktop",
+    "usedBy": [
+        "CWBAutomation/ForeignExchangeCalculator.js"
+    ],
+    "userCode": true
+}

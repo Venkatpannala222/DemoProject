@@ -1,0 +1,14 @@
+{
+    "groupName": "Test Suites/CWBOLBSanity",
+    "testSuiteName": "InteraceEtransfer",
+    "testCaseInfo": [
+        "CWBSanityTestScripts/Common/AllAccounts.js",
+        "CWBSanityTestScripts/Common/Transfers.js",
+        "CWBSanityTestScripts/Common/ManageRecipients.js",
+        "CWBSanityTestScripts/Accountsmodule/Sample.js",
+        "CWBSanityTestScripts/Interacetransfer/AddInteracRecipient.js",
+        "CWBSanityTestScripts/Interacetransfer/InteracEtransferlanding.js",
+        "CWBSanityTestScripts/Interacetransfer/VerifyManageETransferUI.js"
+    ],
+    "usedBy": []
+}

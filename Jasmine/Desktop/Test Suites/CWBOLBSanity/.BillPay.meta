@@ -1,0 +1,14 @@
+{
+    "groupName": "Test Suites/CWBOLBSanity",
+    "testSuiteName": "BillPay",
+    "testCaseInfo": [
+        "CWBSanityTestScripts/Common/AllAccounts.js",
+        "CWBSanityTestScripts/Common/BillPay.js",
+        "CWBSanityTestScripts/Accountsmodule/Sample.js",
+        "CWBSanityTestScripts/BillPay/PayBills_MakeOneTimePayment.js",
+        "CWBSanityTestScripts/BillPay/SheduledPayment_Daily.js",
+        "CWBSanityTestScripts/BillPay/VerifyManagePayeeList.js",
+        "CWBSanityTestScripts/BillPay/Cancel_BillPay.js"
+    ],
+    "usedBy": []
+}

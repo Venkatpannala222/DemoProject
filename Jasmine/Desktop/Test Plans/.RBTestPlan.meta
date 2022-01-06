@@ -1,0 +1,19 @@
+{
+    "groupName": "Test Plans",
+    "testRunnerName": "RBTestPlan",
+    "testSuiteInfo": [
+        "CWBAutomation/AccountsRB.js",
+        "CWBAutomation/FeedBack.js",
+        "CWBAutomation/FXCalculator.js",
+        "CWBAutomation/Messages.js",
+        "CWBAutomation/ManageRecipientsRetail.js",
+        "CWBAutomation/SettingsSuite.js",
+        "CWBAutomation/TransactionsRetail.js",
+        "CWBAutomation/StopChequeRequestSuite.js",
+        "CWBAutomation/StopPAP.js",
+        "CWBAutomation/TransferToOwnAcc.js",
+        "CWBAutomation/TransferToSameBank.js",
+        "CWBAutomation/BillPayRetail.js",
+        "CWBAutomation/CRATaxes.js"
+    ]
+}

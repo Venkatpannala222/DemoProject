@@ -1,0 +1,11 @@
+{
+    "testCaseName": "RemoveFormofProvincialTaxes",
+    "testSuiteName": "Test Cases/CWBSanityTestScripts/PayBusinessTax",
+    "channelName": "Desktop",
+    "usedBy": [
+        "CWBOLBSanity/PayBusinessTaxes.js",
+        "CWBOLBSanity/CWBSanitySample.js",
+        "CWBOLBSanity/CWBSanity.js"
+    ],
+    "userCode": true
+}

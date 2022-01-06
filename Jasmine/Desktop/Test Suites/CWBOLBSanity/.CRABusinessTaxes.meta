@@ -1,0 +1,16 @@
+{
+    "groupName": "Test Suites/CWBOLBSanity",
+    "testSuiteName": "CRABusinessTaxes",
+    "testCaseInfo": [
+        "CWBSanityTestScripts/Common/AllAccounts.js",
+        "CWBSanityTestScripts/Common/CRATaxes.js",
+        "CWBSanityTestScripts/Accountsmodule/Sample.js",
+        "CWBSanityTestScripts/CRATaxes/RemoveCRABusinessNumber.js",
+        "CWBSanityTestScripts/CRATaxes/RemoveCRAForm.js",
+        "CWBSanityTestScripts/CRATaxes/AddCRATemplate1.js",
+        "CWBSanityTestScripts/CRATaxes/AddCRATemplate2.js",
+        "CWBSanityTestScripts/CRATaxes/AddCRATemplate3.js",
+        "CWBSanityTestScripts/CRATaxes/AddCRATemplate4.js"
+    ],
+    "usedBy": []
+}

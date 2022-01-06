@@ -1,0 +1,15 @@
+{
+    "groupName": "Test Suites/CWBAutomation",
+    "testSuiteName": "StopChequeRequestSuite",
+    "testCaseInfo": [
+        "CWBSanityTestScripts/Common/StopChequeRequests.js",
+        "CWBRegressionTestScripts/TransferToOwnAcc/Sample.js",
+        "CWBRegressionTestScripts/StopChequeRequests/ValidateSingleStopChequeRequest.js",
+        "CWBRegressionTestScripts/StopChequeRequests/ValidateAccDetails_StopCheque.js",
+        "CWBRegressionTestScripts/StopChequeRequests/ValidateChequeStatus_StopCheque.js",
+        "CWBRegressionTestScripts/StopChequeRequests/ValidateSeriesofChequeRequest.js",
+        "CWBRegressionTestScripts/StopChequeRequests/ValidateStopChequeDetails.js",
+        "CWBRegressionTestScripts/StopChequeRequests/VerifyStopChequeRequestsTabs.js"
+    ],
+    "usedBy": []
+}

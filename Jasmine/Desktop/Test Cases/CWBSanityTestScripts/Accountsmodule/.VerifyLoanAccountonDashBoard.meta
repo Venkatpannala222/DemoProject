@@ -1,0 +1,7 @@
+{
+    "testCaseName": "VerifyLoanAccountonDashBoard",
+    "testSuiteName": "Test Cases/CWBSanityTestScripts/Accountsmodule",
+    "channelName": "Desktop",
+    "userCode": true,
+    "usedBy": []
+}

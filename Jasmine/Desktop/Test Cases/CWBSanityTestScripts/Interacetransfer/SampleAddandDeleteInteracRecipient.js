@@ -1,0 +1,25 @@
+it("SampleAddandDeleteInteracRecipient", async function() {
+	kony.automation.flexcontainer.click(["frmAccountsLanding","customheader","topmenu","flxTransfersAndPay"]);
+	kony.automation.flexcontainer.click(["frmAccountsLanding","customheader","topmenu","flxSendMoney"]);
+	kony.automation.richtext.click(["frmFastManagePayee","rtxInteraceTransfer"]);
+	kony.automation.flexcontainer.click(["frmFastManagePayee","flxAddReciepient"]);
+	kony.automation.textbox.enterText(["frmeTransferAddRecipient","tbxRecipientName"],"Jasmine");
+	kony.automation.textbox.enterText(["frmeTransferAddRecipient","tbxMobileNumber"],"(250) 728-1928");
+	kony.automation.listbox.selectItem(["frmeTransferAddRecipient","lbxSendTransferByMethod"], "MobileNumber");
+	kony.automation.button.click(["frmeTransferAddRecipient","btnAddRecipientContinue"]);
+	kony.automation.textbox.enterText(["frmeTransferAddRecipientSecurityInfo","tbxSecurityQuestion"],"What are u doing");
+	kony.automation.textbox.enterText(["frmeTransferAddRecipientSecurityInfo","tbxAnswer"],"AddEtransferRecipient");
+	kony.automation.flexcontainer.click(["frmeTransferAddRecipientSecurityInfo","flxAddRecipientSecurityInfo"]);
+	kony.automation.textbox.enterText(["frmeTransferAddRecipientSecurityInfo","tbxConfirmAnswer"],"AddEtransferRecipient");
+	kony.automation.button.click(["frmeTransferAddRecipientSecurityInfo","btnUpdateSecurityInfo"]);
+	kony.automation.button.click(["frmeTransferAddRecipientConfirm","btnConfirm"]);
+	kony.automation.flexcontainer.click(["frmeTransferAddRecipientAcknowledgement","customheadernew","flxTransfersAndPay"]);
+	kony.automation.flexcontainer.click(["frmeTransferAddRecipientAcknowledgement","customheadernew","flxSendMoney"]);
+	kony.automation.richtext.click(["frmFastManagePayee","rtxInteraceTransfer"]);
+	kony.automation.textbox.enterText(["frmFastManagePayee","Search1","txtSearch"],"JASMINE");
+	kony.automation.flexcontainer.click(["frmFastManagePayee","Search1","btnConfirm"]);
+	kony.automation.flexcontainer.click(["frmFastManagePayee","segmentTransfers[0]","flxDropdown"]);
+	kony.automation.button.click(["frmFastManagePayee","segmentTransfers[0]","btnRemoveRecipient"]);
+	kony.automation.button.click(["frmFastManagePayee","CustomPopup1","btnYes"]);
+	kony.automation.flexcontainer.click(["frmFastManagePayee","customheadernew","flxAccounts"]);
+});

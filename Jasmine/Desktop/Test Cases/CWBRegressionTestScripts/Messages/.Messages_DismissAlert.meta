@@ -1,0 +1,9 @@
+{
+    "testCaseName": "Messages_DismissAlert",
+    "testSuiteName": "Test Cases/CWBRegressionTestScripts/Messages",
+    "channelName": "Desktop",
+    "usedBy": [
+        "CWBAutomation/MessageSuite.js"
+    ],
+    "userCode": true
+}

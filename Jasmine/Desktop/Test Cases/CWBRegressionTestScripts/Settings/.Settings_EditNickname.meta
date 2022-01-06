@@ -1,0 +1,9 @@
+{
+    "testCaseName": "Settings_EditNickname",
+    "testSuiteName": "Test Cases/CWBRegressionTestScripts/Settings",
+    "channelName": "Desktop",
+    "usedBy": [
+        "CWBAutomation/Settings.js"
+    ],
+    "userCode": true
+}

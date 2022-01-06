@@ -1,0 +1,10 @@
+{
+    "testCaseName": "TransactionPagination",
+    "testSuiteName": "Test Cases/CWBSanityTestScripts/Accountsmodule",
+    "channelName": "Desktop",
+    "usedBy": [
+        "CWBOLBSanity/Accountssuite.js",
+        "CWBOLBSanity/CWBSanity.js"
+    ],
+    "userCode": true
+}

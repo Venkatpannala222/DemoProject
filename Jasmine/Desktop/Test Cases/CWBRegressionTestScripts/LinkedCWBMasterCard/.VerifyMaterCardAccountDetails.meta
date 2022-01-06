@@ -1,0 +1,123 @@
+{
+    "testCaseName": "VerifyMaterCardAccountDetails",
+    "testSuiteName": "Test Cases/CWBRegressionTestScripts/LinkedCWBMasterCard",
+    "channelName": "Desktop",
+    "steps": [
+        {
+            "displayReady": true,
+            "actionName": "Click",
+            "actionIconClassName": "assets/widget_icons/tap.svg",
+            "activeActionIconClassName": "assets/widget_icons/activetap.svg",
+            "entity": "frmAccountsLanding.accountList.segAccounts[2,0].flxWrapper",
+            "contextMenu": {
+                "isScrollToRowEnabled": true,
+                "isScreenShotEnabled": false
+            },
+            "actualMessage": {
+                "messageType": "Record",
+                "messageData": {
+                    "DeviceID": "web",
+                    "widgetPath": "frmAccountsLanding.accountList.segAccounts[2,0].flxWrapper",
+                    "widgetType": "flexcontainer",
+                    "actionType": "click"
+                },
+                "UUID": "e9496085-c963-4ba7-8120-b48fdbc5e4f8"
+            },
+            "codeNotReady": false,
+            "metaEditable": false
+        },
+        {
+            "displayReady": true,
+            "actionName": "Click",
+            "actionIconClassName": "assets/widget_icons/tap.svg",
+            "activeActionIconClassName": "assets/widget_icons/activetap.svg",
+            "entity": "frmBRIMAccountsDetails.summary.flxCreditLimitSection",
+            "contextMenu": {
+                "isScrollToRowEnabled": false,
+                "isScreenShotEnabled": false
+            },
+            "actualMessage": {
+                "messageType": "Record",
+                "messageData": {
+                    "DeviceID": "web",
+                    "widgetPath": "frmBRIMAccountsDetails.summary.flxCreditLimitSection",
+                    "widgetType": "flexcontainer",
+                    "actionType": "click"
+                },
+                "UUID": "e46678e3-85fa-445a-93e6-fea94dcc2d49"
+            },
+            "codeNotReady": false,
+            "metaEditable": false
+        },
+        {
+            "displayReady": true,
+            "actionName": "Click",
+            "actionIconClassName": "assets/widget_icons/tap.svg",
+            "activeActionIconClassName": "assets/widget_icons/activetap.svg",
+            "entity": "frmBRIMAccountsDetails.summary.flxlInstallmentLimitSection",
+            "contextMenu": {
+                "isScrollToRowEnabled": false,
+                "isScreenShotEnabled": false
+            },
+            "actualMessage": {
+                "messageType": "Record",
+                "messageData": {
+                    "DeviceID": "web",
+                    "widgetPath": "frmBRIMAccountsDetails.summary.flxlInstallmentLimitSection",
+                    "widgetType": "flexcontainer",
+                    "actionType": "click"
+                },
+                "UUID": "bcf2856f-3c49-4b90-bc10-f6f4c3df26a6"
+            },
+            "codeNotReady": false,
+            "metaEditable": false
+        },
+        {
+            "displayReady": true,
+            "actionName": "Click",
+            "actionIconClassName": "assets/widget_icons/tap.svg",
+            "activeActionIconClassName": "assets/widget_icons/activetap.svg",
+            "entity": "frmBRIMAccountsDetails.summary.btnBalanceDetails",
+            "contextMenu": {
+                "isScrollToRowEnabled": false,
+                "isScreenShotEnabled": false
+            },
+            "actualMessage": {
+                "messageType": "Record",
+                "messageData": {
+                    "DeviceID": "web",
+                    "widgetPath": "frmBRIMAccountsDetails.summary.btnBalanceDetails",
+                    "widgetType": "button",
+                    "actionType": "click"
+                },
+                "UUID": "b96d6ee6-1dbf-4456-9bef-c163cfc24d98"
+            },
+            "codeNotReady": false,
+            "metaEditable": false
+        },
+        {
+            "displayReady": true,
+            "actionName": "Click",
+            "actionIconClassName": "assets/widget_icons/tap.svg",
+            "activeActionIconClassName": "assets/widget_icons/activetap.svg",
+            "entity": "frmBRIMAccountsDetails.summary.btnAccountInfo",
+            "contextMenu": {
+                "isScrollToRowEnabled": false,
+                "isScreenShotEnabled": false
+            },
+            "actualMessage": {
+                "messageType": "Record",
+                "messageData": {
+                    "DeviceID": "web",
+                    "widgetPath": "frmBRIMAccountsDetails.summary.btnAccountInfo",
+                    "widgetType": "button",
+                    "actionType": "click"
+                },
+                "UUID": "14c0d22b-fe88-4f22-bed1-74e7cb233d4d"
+            },
+            "codeNotReady": false,
+            "metaEditable": false
+        }
+    ],
+    "usedBy": []
+}

@@ -1,0 +1,10 @@
+{
+    "groupName": "Test Suites/CWBOLBSanity",
+    "testSuiteName": "Signout",
+    "testCaseInfo": [
+        "CWBSanityTestScripts/Common/AllAccounts.js",
+        "CWBSanityTestScripts/Accountsmodule/Sample.js",
+        "CWBSanityTestScripts/Signout/Signout.js"
+    ],
+    "usedBy": []
+}

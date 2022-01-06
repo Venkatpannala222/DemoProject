@@ -1,0 +1,7 @@
+{
+    "testCaseName": "VerifyTransferHistory",
+    "testSuiteName": "Test Cases/CWBSanityTestScripts/TransfertoOwnAccount",
+    "channelName": "Desktop",
+    "usedBy": [],
+    "userCode": true
+}

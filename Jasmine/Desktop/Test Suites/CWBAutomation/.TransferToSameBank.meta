@@ -1,0 +1,27 @@
+{
+    "groupName": "Test Suites/CWBAutomation",
+    "testSuiteName": "TransferToSameBank",
+    "testCaseInfo": [
+        "CWBSanityTestScripts/Common/AllAccounts.js",
+        "CWBSanityTestScripts/Common/Transfers.js",
+        "CWBRegressionTestScripts/TransferToOwnAcc/Sample.js",
+        "CWBRegressionTestScripts/TransferToSameBank/DailySheduledTransfer-DateRange.js",
+        "CWBRegressionTestScripts/TransferToSameBank/DailySheduledTransfer-Occurences.js",
+        "CWBRegressionTestScripts/TransferToSameBank/HalfYearlySheduledTransfer-DateRange.js",
+        "CWBRegressionTestScripts/TransferToSameBank/HalfYearlySheduledTransfer-Occurences.js",
+        "CWBRegressionTestScripts/TransferToSameBank/MonthlySheduledTransfer-DateRange.js",
+        "CWBRegressionTestScripts/TransferToSameBank/MonthlySheduledTransfer-Occurences.js",
+        "CWBRegressionTestScripts/TransferToSameBank/OneTimeTransfer.js",
+        "CWBRegressionTestScripts/TransferToSameBank/QuarterlySheduledTransfer-DateRange.js",
+        "CWBRegressionTestScripts/TransferToSameBank/QuarterlySheduledTransfer-Occurences.js",
+        "CWBRegressionTestScripts/TransferToSameBank/RepeatSendMoney.js",
+        "CWBRegressionTestScripts/TransferToSameBank/VerifyTransferUnderAccounts.js",
+        "CWBRegressionTestScripts/TransferToSameBank/WeeklySheduledTransfer-DateRange.js",
+        "CWBRegressionTestScripts/TransferToSameBank/WeeklySheduledTransfer-Occurences.js",
+        "CWBRegressionTestScripts/TransferToSameBank/YearlySheduledTransfer-DateRange.js",
+        "CWBRegressionTestScripts/TransferToSameBank/YearlySheduledTransfer-Occurences.js"
+    ],
+    "usedBy": [
+        "tempPlan.js"
+    ]
+}

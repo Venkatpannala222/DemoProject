@@ -1,0 +1,10 @@
+{
+    "testCaseName": "OneTimeTransfer",
+    "testSuiteName": "Test Cases/CWBSanityTestScripts/TransfertoSameBank",
+    "channelName": "Desktop",
+    "userCode": true,
+    "usedBy": [
+        "CWBOLBSanity/TransferToSameBank.js",
+        "CWBOLBSanity/CWBSanity.js"
+    ]
+}

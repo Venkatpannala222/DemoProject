@@ -1,0 +1,13 @@
+{
+    "groupName": "Test Suites/CWBOLBSanity",
+    "testSuiteName": "Usermanagement",
+    "testCaseInfo": [
+        "CWBSanityTestScripts/Common/AllAccounts.js",
+        "CWBSanityTestScripts/Common/Usermanagement.js",
+        "CWBSanityTestScripts/Accountsmodule/Sample.js",
+        "CWBSanityTestScripts/UserManagement/UsermanagementCreateCustomRole.js",
+        "CWBSanityTestScripts/UserManagement/Usermanagement_UserRoles.js",
+        "CWBSanityTestScripts/UserManagement/Usermanagement_AllUsersTab.js"
+    ],
+    "usedBy": []
+}

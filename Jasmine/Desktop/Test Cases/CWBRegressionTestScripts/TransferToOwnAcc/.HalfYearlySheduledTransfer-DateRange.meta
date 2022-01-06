@@ -1,0 +1,13 @@
+{
+    "testCaseName": "HalfYearlySheduledTransfer-DateRange",
+    "testSuiteName": "Test Cases/CWBAutomation/TransferToOwnAcc",
+    "channelName": "Desktop",
+    "userCode": true,
+    "usedBy": [
+        "CWBAutomation/ConsolidatedSuite.js",
+        "CWBAutomation/CWBRegressionSuiteSample.js",
+        "CWBAutomation/CWBRegression1.js",
+        "CWBAutomation/CWBRegressionConsolidated1.js",
+        "CWBAutomation/CWBRegressionRetailUser.js"
+    ]
+}

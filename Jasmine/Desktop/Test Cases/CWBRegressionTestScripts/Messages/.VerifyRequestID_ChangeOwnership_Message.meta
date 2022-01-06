@@ -1,0 +1,11 @@
+{
+    "testCaseName": "VerifyRequestID_ChangeOwnership_Message",
+    "testSuiteName": "Test Cases/CWBAutomation/Messages",
+    "channelName": "Desktop",
+    "userCode": true,
+    "usedBy": [
+        "CWBAutomation/MessageSuite.js",
+        "CWBAutomation/ConsolidatedSuite.js",
+        "CWBAutomation/CWBRegressionRetailUser.js"
+    ]
+}

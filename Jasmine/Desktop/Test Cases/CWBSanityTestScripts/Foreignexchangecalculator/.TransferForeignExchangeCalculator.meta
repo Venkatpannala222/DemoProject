@@ -1,0 +1,11 @@
+{
+    "testCaseName": "TransferForeignExchangeCalculator",
+    "testSuiteName": "Test Cases/CWBSanityTestScripts/Foreignexchangecalculator",
+    "channelName": "Desktop",
+    "usedBy": [
+        "CWBOLBSanity/ForeignExchangeRateCalculator.js",
+        "CWBOLBSanity/CWBSanitySample.js",
+        "CWBOLBSanity/CWBSanity.js"
+    ],
+    "userCode": true
+}

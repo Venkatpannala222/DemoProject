@@ -1,0 +1,9 @@
+{
+    "testCaseName": "Mortrage_ContextMenuOptions",
+    "testSuiteName": "Test Cases/CWBAutomation/Account",
+    "channelName": "Desktop",
+    "userCode": true,
+    "usedBy": [
+        "CWBAutomation/AccountsBBSuite.js"
+    ]
+}

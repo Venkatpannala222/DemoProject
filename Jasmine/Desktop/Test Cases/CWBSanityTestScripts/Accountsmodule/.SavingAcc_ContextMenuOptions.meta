@@ -1,0 +1,7 @@
+{
+    "testCaseName": "SavingAcc_ContextMenuOptions",
+    "testSuiteName": "Test Cases/CWBSanityTestScripts/Accountsmodule",
+    "channelName": "Desktop",
+    "userCode": true,
+    "usedBy": []
+}

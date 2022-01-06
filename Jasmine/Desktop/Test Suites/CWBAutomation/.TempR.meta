@@ -1,0 +1,8 @@
+{
+    "groupName": "Test Suites/CWBAutomation",
+    "testSuiteName": "TempR",
+    "testCaseInfo": [
+        "CWBBBRegressionTestScripts/BBCommon/Cash_Flow.js"
+    ],
+    "usedBy": []
+}

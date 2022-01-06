@@ -1,0 +1,10 @@
+{
+    "testCaseName": "VerifySearch_From_To_AccList",
+    "testSuiteName": "Test Cases/CWBSanityTestScripts/TransfertoOwnAccount",
+    "channelName": "Desktop",
+    "userCode": true,
+    "usedBy": [
+        "CWBOLBSanity/CWBSanity.js",
+        "CWBOLBSanity/TransfertoOwnAccount.js"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "testCaseName": "SavingsAcc_VerifyTranscations",
+    "testSuiteName": "Test Cases/CWBSanityTestScripts/Accountsmodule",
+    "channelName": "Desktop",
+    "userCode": true,
+    "usedBy": [
+        "CWBOLBSanity/CWBSanity.js"
+    ]
+}

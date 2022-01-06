@@ -1,0 +1,10 @@
+{
+    "testCaseName": "ValidateFavAccountPreference",
+    "testSuiteName": "Test Cases/CWBSanityTestScripts/Settings",
+    "channelName": "Desktop",
+    "userCode": true,
+    "usedBy": [
+        "CWBOLBSanity/Settings.js",
+        "CWBOLBSanity/CWBSanity.js"
+    ]
+}

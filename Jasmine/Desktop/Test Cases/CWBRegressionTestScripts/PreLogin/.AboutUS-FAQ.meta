@@ -1,0 +1,9 @@
+{
+    "testCaseName": "AboutUS-FAQ",
+    "testSuiteName": "Test Cases/CWBAutomation/PreLogin",
+    "channelName": "Desktop",
+    "userCode": true,
+    "usedBy": [
+        "CWBAutomation/PreLoginSuite.js"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "groupName": "Test Suites/CWBOLBSanity",
+    "testSuiteName": "TransferToSameBank",
+    "testCaseInfo": [
+        "CWBSanityTestScripts/Common/Transfers.js",
+        "CWBSanityTestScripts/Common/AllAccounts.js",
+        "CWBSanityTestScripts/Accountsmodule/Sample.js",
+        "CWBSanityTestScripts/TransfertoSameBank/OneTimeTransfer.js",
+        "CWBSanityTestScripts/TransfertoSameBank/SheduledOneTimeTransfer.js",
+        "CWBSanityTestScripts/TransfertoSameBank/CancelTransfer.js"
+    ],
+    "usedBy": []
+}

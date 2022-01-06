@@ -1,0 +1,57 @@
+[
+    {
+        "testName": "CWBAutomation/Receivables",
+        "result": "jasmineReport31-12-2021_13_05_38.html",
+        "passedCount": 0,
+        "failedCount": 1,
+        "pendingCount": 0,
+        "timeStamp": "31-12-2021 13:05:38",
+        "runnerType": "TestSuiteRunner",
+        "channelName": "Desktop",
+        "crashed": false
+    },
+    {
+        "testName": "CWBAutomation/Receivables",
+        "result": "jasmineReport31-12-2021_11_54_38.html",
+        "passedCount": 1,
+        "failedCount": 0,
+        "pendingCount": 0,
+        "timeStamp": "31-12-2021 11:54:38",
+        "runnerType": "TestSuiteRunner",
+        "channelName": "Desktop",
+        "crashed": false
+    },
+    {
+        "testName": "CWBAutomation/Receivables",
+        "result": "jasmineReport31-12-2021_11_48_01.html",
+        "passedCount": 1,
+        "failedCount": 0,
+        "pendingCount": 0,
+        "timeStamp": "31-12-2021 11:48:01",
+        "runnerType": "TestSuiteRunner",
+        "channelName": "Desktop",
+        "crashed": false
+    },
+    {
+        "testName": "CWBAutomation/CashFlow",
+        "result": "jasmineReport30-12-2021_18_29_56.html",
+        "passedCount": 1,
+        "failedCount": 0,
+        "pendingCount": 0,
+        "timeStamp": "30-12-2021 18:29:56",
+        "runnerType": "TestSuiteRunner",
+        "channelName": "Desktop",
+        "crashed": false
+    },
+    {
+        "testName": "CWBAutomation/CashFlow",
+        "result": "jasmineReport30-12-2021_18_26_35.html",
+        "passedCount": 0,
+        "failedCount": 1,
+        "pendingCount": 0,
+        "timeStamp": "30-12-2021 18:26:35",
+        "runnerType": "TestSuiteRunner",
+        "channelName": "Desktop",
+        "crashed": false
+    }
+]

@@ -1,0 +1,9 @@
+{
+    "groupName": "Test Suites/CWBAutomation",
+    "testSuiteName": "Receivables",
+    "testCaseInfo": [
+        "CWBBBRegressionTestScripts/BBCommon/Cash_Flow.js",
+        "R1Dot1/MyCashFlows/ValidatingtheUIfortheUpcomingReceivables.js"
+    ],
+    "usedBy": []
+}

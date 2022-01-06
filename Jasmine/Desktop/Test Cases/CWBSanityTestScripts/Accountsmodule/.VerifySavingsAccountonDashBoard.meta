@@ -1,0 +1,9 @@
+{
+    "testCaseName": "VerifySavingsAccountonDashBoard",
+    "testSuiteName": "Test Cases/CWBSanityTestScripts/Accountsmodule",
+    "channelName": "Desktop",
+    "userCode": true,
+    "usedBy": [
+        "CWBOLBSanity/CWBSanitySample.js"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "testCaseName": "SheduledPayment_Yearly",
+    "testSuiteName": "Test Cases/CWB/BillPay",
+    "channelName": "Desktop",
+    "userCode": true,
+    "usedBy": [
+        "CWBAutomation/CWBRegression2.js",
+        "CWBAutomation/CWBRegressionConsolidated1.js",
+        "CWBAutomation/CWBRegressionRetailUser.js"
+    ]
+}

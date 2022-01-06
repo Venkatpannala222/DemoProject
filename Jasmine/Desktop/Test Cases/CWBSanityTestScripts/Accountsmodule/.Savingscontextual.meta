@@ -1,0 +1,95 @@
+{
+    "testCaseName": "Savingscontextual",
+    "testSuiteName": "Test Cases/CWBSanityTestScripts/Accountsmodule",
+    "channelName": "Desktop",
+    "steps": [
+        {
+            "displayReady": true,
+            "actionName": "Touch",
+            "actionIconClassName": "assets/widget_icons/tap.svg",
+            "activeActionIconClassName": "assets/widget_icons/activetap.svg",
+            "entity": "frmAccountsLanding.accountList.segAccounts[1,0].flxMenu",
+            "contextMenu": {
+                "isScrollToRowEnabled": true,
+                "isScreenShotEnabled": false
+            },
+            "actualMessage": {
+                "messageType": "Record",
+                "messageData": {
+                    "DeviceID": "web",
+                    "widgetPath": "frmAccountsLanding.accountList.segAccounts[1,0].flxMenu",
+                    "widgetType": "widget",
+                    "actionType": "touch",
+                    "metadata": {
+                        "start": [
+                            48,
+                            43
+                        ],
+                        "move": null,
+                        "end": null
+                    }
+                },
+                "UUID": "dec1772c-d46a-49fa-b14b-959d5723ebdd"
+            },
+            "codeNotReady": false,
+            "dispMeta": "",
+            "metaEditable": false
+        },
+        {
+            "displayReady": true,
+            "actionName": "Touch",
+            "actionIconClassName": "assets/widget_icons/tap.svg",
+            "activeActionIconClassName": "assets/widget_icons/activetap.svg",
+            "entity": "frmAccountsLanding",
+            "contextMenu": {
+                "isScrollToRowEnabled": false,
+                "isScreenShotEnabled": false
+            },
+            "actualMessage": {
+                "messageType": "Record",
+                "messageData": {
+                    "DeviceID": "web",
+                    "widgetPath": "frmAccountsLanding",
+                    "widgetType": "widget",
+                    "actionType": "touch",
+                    "metadata": {
+                        "start": null,
+                        "move": null,
+                        "end": [
+                            785,
+                            427
+                        ]
+                    }
+                },
+                "UUID": "2d04e2fa-c522-42d8-89de-aa9f18938ac7"
+            },
+            "codeNotReady": false,
+            "dispMeta": "",
+            "metaEditable": false
+        },
+        {
+            "displayReady": true,
+            "actionName": "Click",
+            "actionIconClassName": "assets/widget_icons/tap.svg",
+            "activeActionIconClassName": "assets/widget_icons/activetap.svg",
+            "entity": "frmAccountsLanding.accountList.segAccounts[1,0].flxMenu",
+            "contextMenu": {
+                "isScrollToRowEnabled": true,
+                "isScreenShotEnabled": false
+            },
+            "actualMessage": {
+                "messageType": "Record",
+                "messageData": {
+                    "DeviceID": "web",
+                    "widgetPath": "frmAccountsLanding.accountList.segAccounts[1,0].flxMenu",
+                    "widgetType": "flexcontainer",
+                    "actionType": "click"
+                },
+                "UUID": "3aa911e0-c530-4989-ae81-dac275bf6a63"
+            },
+            "codeNotReady": false,
+            "metaEditable": false
+        }
+    ],
+    "usedBy": []
+}

@@ -1,0 +1,11 @@
+{
+    "testCaseName": "AddCRATemplate3",
+    "testSuiteName": "Test Cases/CWBSanityTestScripts/CRATaxes",
+    "channelName": "Desktop",
+    "usedBy": [
+        "CWBOLBSanity/CWBSanitySample.js",
+        "CWBOLBSanity/CWBSanity.js",
+        "CWBOLBSanity/CRABusinessTaxes.js"
+    ],
+    "userCode": true
+}

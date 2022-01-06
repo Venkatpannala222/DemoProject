@@ -1,0 +1,10 @@
+{
+    "testCaseName": "RemoveCRAForm",
+    "testSuiteName": "Test Cases/CWBSanityTestScripts/CRATaxes",
+    "channelName": "Desktop",
+    "usedBy": [
+        "CWBOLBSanity/CRABusinessTaxes.js",
+        "CWBOLBSanity/CWBSanity.js"
+    ],
+    "userCode": true
+}

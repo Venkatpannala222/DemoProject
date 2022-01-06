@@ -1,0 +1,9 @@
+{
+    "testCaseName": "Cancel_BillPay",
+    "testSuiteName": "Test Cases/CWBSanityTestScripts/BillPay",
+    "channelName": "Desktop",
+    "userCode": true,
+    "usedBy": [
+        "CWBOLBSanity/BillPay.js"
+    ]
+}

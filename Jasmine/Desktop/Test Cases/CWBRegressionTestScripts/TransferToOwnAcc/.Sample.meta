@@ -1,0 +1,14 @@
+{
+    "testCaseName": "Sample",
+    "testSuiteName": "Test Cases/CWBAutomation/TransferToOwnAcc",
+    "channelName": "Desktop",
+    "userCode": true,
+    "usedBy": [
+        "CWBAutomation/MessageSuite.js",
+        "CWBAutomation/PreLoginSuite.js",
+        "CWBAutomation/AccountSuite.js",
+        "CWBAutomation/ConsolidatedSuite.js",
+        "CWBAutomation/AccountsBBSuite.js",
+        "CWBAutomation/CWBRegressionSuiteSample.js"
+    ]
+}

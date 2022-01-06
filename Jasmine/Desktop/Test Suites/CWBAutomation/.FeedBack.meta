@@ -1,0 +1,14 @@
+{
+    "groupName": "Test Suites/CWBAutomation",
+    "testSuiteName": "FeedBack",
+    "testCaseInfo": [
+        "CWBSanityTestScripts/Common/Feedback.js",
+        "CWBSanityTestScripts/Common/AllAccounts.js",
+        "CWBSanityTestScripts/Accountsmodule/Sample.js",
+        "CWBRegressionTestScripts/FeedBack/Verify_Cancel_Feedback.js",
+        "CWBRegressionTestScripts/FeedBack/Verify_Feedback.js"
+    ],
+    "usedBy": [
+        "RBTestPlan.js"
+    ]
+}

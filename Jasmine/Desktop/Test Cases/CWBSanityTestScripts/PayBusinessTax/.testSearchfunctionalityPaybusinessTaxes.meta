@@ -1,0 +1,9 @@
+{
+    "testCaseName": "testSearchfunctionalityPaybusinessTaxes",
+    "testSuiteName": "Test Cases/CWBSanityTestScripts/PayBusinessTax",
+    "channelName": "Desktop",
+    "usedBy": [
+        "CWBOLBSanity/CWBSanitySample.js"
+    ],
+    "userCode": true
+}

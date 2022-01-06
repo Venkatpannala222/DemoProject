@@ -1,0 +1,14 @@
+{
+    "groupName": "Test Suites/CWBAutomation",
+    "testSuiteName": "FXCalculator",
+    "testCaseInfo": [
+        "CWBSanityTestScripts/Common/ExchangeCalculator.js",
+        "CWBSanityTestScripts/Common/AllAccounts.js",
+        "CWBSanityTestScripts/Accountsmodule/Sample.js",
+        "CWBRegressionTestScripts/FXCalculator/VerifyFXCalculator.js",
+        "CWBRegressionTestScripts/FXCalculator/VerifyFxcalculatorIntransferScreen.js"
+    ],
+    "usedBy": [
+        "RBTestPlan.js"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "testCaseName": "DailySheduledTransfer-Occurences",
+    "testSuiteName": "Test Cases/CWB/TransferToSameBank",
+    "channelName": "Desktop",
+    "usedBy": [
+        "Dummy.js",
+        "CWBAutomation/CWBRegression2.js",
+        "CWBAutomation/CWBRegressionConsolidated1.js",
+        "CWBAutomation/CWBRegressionRetailUser.js"
+    ],
+    "userCode": true
+}

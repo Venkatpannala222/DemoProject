@@ -1,0 +1,9 @@
+{
+    "groupName": "Test Suites/CWBOLBSanity",
+    "testSuiteName": "DebugSuite",
+    "testCaseInfo": [
+        "CWBSanityTestScripts/Accountsmodule/Sample.js",
+        "RBTestScripts/TransferToOwnAcc/RepeatSendMoney.js"
+    ],
+    "usedBy": []
+}

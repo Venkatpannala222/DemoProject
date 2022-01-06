@@ -1,0 +1,14 @@
+{
+    "groupName": "Test Suites/CWBAutomation",
+    "testSuiteName": "SettingsSuite",
+    "testCaseInfo": [
+        "CWBSanityTestScripts/Common/Settings.js",
+        "CWBRegressionTestScripts/TransferToOwnAcc/Sample.js",
+        "CWBRegressionTestScripts/Settings/VerifyAccountpreferences.js",
+        "CWBRegressionTestScripts/Settings/ValidateFavAccountPreference.js",
+        "CWBRegressionTestScripts/Settings/CancelSetDefaultAccount.js",
+        "CWBRegressionTestScripts/Settings/SetDefaultAcc_ChequeDeposit.js",
+        "CWBRegressionTestScripts/Settings/SetDefaultAcc_MyBills.js"
+    ],
+    "usedBy": []
+}

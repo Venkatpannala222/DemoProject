@@ -1,0 +1,10 @@
+{
+    "groupName": "Test Suites/CWBOLBSanity",
+    "testSuiteName": "",
+    "testCaseInfo": [
+        "firstsavin.js",
+        "CWBSanityTestScripts/Accountsmodule/Account_Statement.js",
+        "CWBSanityTestScripts/Accountsmodule/Sample.js"
+    ],
+    "usedBy": []
+}

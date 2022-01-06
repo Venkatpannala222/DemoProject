@@ -1,0 +1,9 @@
+{
+    "testCaseName": "RepeatSendMoney",
+    "testSuiteName": "Test Cases/CWBSanityTestScripts/TransfertoOwnAccount",
+    "channelName": "Desktop",
+    "userCode": true,
+    "usedBy": [
+        "CWBOLBSanity/TransfertoOwnAccount.js"
+    ]
+}

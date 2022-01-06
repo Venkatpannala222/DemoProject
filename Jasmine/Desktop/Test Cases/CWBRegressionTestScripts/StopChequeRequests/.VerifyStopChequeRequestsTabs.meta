@@ -1,0 +1,9 @@
+{
+    "testCaseName": "VerifyStopChequeRequestsTabs",
+    "testSuiteName": "Test Cases/CWBAutomation/StopChequeRequests",
+    "channelName": "Desktop",
+    "userCode": true,
+    "usedBy": [
+        "CWBAutomation/StopChequeRequestSuite.js"
+    ]
+}

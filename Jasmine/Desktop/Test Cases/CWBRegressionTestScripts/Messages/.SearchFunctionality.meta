@@ -1,0 +1,11 @@
+{
+    "testCaseName": "SearchFunctionality",
+    "testSuiteName": "Test Cases/CWBAutomation/Messages",
+    "channelName": "Desktop",
+    "userCode": true,
+    "usedBy": [
+        "CWBAutomation/ConsolidatedSuite.js",
+        "CWBAutomation/CWBRegressionRetailUser.js",
+        "CWBAutomation/MessageSuite.js"
+    ]
+}

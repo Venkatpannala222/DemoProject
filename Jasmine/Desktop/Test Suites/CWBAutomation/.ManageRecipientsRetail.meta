@@ -1,0 +1,18 @@
+{
+    "groupName": "Test Suites/CWBAutomation",
+    "testSuiteName": "ManageRecipientsRetail",
+    "testCaseInfo": [
+        "CWBSanityTestScripts/Common/AllAccounts.js",
+        "CWBSanityTestScripts/Common/ManageRecipients.js",
+        "CWBSanityTestScripts/Common/Settings.js",
+        "CWBSanityTestScripts/Accountsmodule/Sample.js",
+        "CWBRegressionTestScripts/ManageRecipients/ManageRecipientsHeaderDetails.js",
+        "CWBRegressionTestScripts/ManageRecipients/ContinueButtonDisabled.js",
+        "CWBRegressionTestScripts/ManageRecipients/AddCWBAccountDetailsHeaders.js",
+        "CWBRegressionTestScripts/ManageRecipients/AddAnotherRecipient.js",
+        "CWBRegressionTestScripts/ManageRecipients/AddButtonOnAddCWBBankAccount.js",
+        "CWBRegressionTestScripts/ManageRecipients/AddCWBBankAccountConfirmationDetails.js",
+        "CWBRegressionTestScripts/ManageRecipients/EditSameBankRecipitent.js"
+    ],
+    "usedBy": []
+}

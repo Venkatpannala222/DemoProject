@@ -1,0 +1,10 @@
+{
+    "testCaseName": "VerifyEditAddress",
+    "testSuiteName": "Test Cases/CWBSanityTestScripts/Settings",
+    "channelName": "Desktop",
+    "usedBy": [
+        "CWBOLBSanity/Settings.js",
+        "CWBOLBSanity/CWBSanity.js"
+    ],
+    "userCode": true
+}

@@ -1,0 +1,9 @@
+{
+    "testCaseName": "VerifyTranstionandPaymentAlert",
+    "testSuiteName": "Test Cases/CWBSanityTestScripts/Settings",
+    "channelName": "Desktop",
+    "userCode": true,
+    "usedBy": [
+        "CWBOLBSanity/CWBSanity.js"
+    ]
+}

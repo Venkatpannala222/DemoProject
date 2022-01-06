@@ -1,0 +1,10 @@
+{
+    "groupName": "Test Suites/CWBOLBSanity",
+    "testSuiteName": "FeedBack",
+    "testCaseInfo": [
+        "CWBSanityTestScripts/Common/AllAccounts.js",
+        "CWBSanityTestScripts/Accountsmodule/Sample.js",
+        "CWBSanityTestScripts/FeedBack/FeebBackFunctionality.js"
+    ],
+    "usedBy": []
+}

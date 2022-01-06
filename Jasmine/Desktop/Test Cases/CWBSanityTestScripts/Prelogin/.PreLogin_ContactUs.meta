@@ -1,0 +1,9 @@
+{
+    "testCaseName": "PreLogin_ContactUs",
+    "testSuiteName": "Test Cases/CWBSanityTestScripts/Prelogin",
+    "channelName": "Desktop",
+    "userCode": true,
+    "usedBy": [
+        "CWBOLBSanity/Prelogin.js"
+    ]
+}

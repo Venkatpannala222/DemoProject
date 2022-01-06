@@ -1,0 +1,11 @@
+{
+    "testCaseName": "DeleteMessage",
+    "testSuiteName": "Test Cases/CWBSanityTestScripts/Messages",
+    "channelName": "Desktop",
+    "userCode": true,
+    "usedBy": [
+        "CWBOLBSanity/Messages.js",
+        "CWBOLBSanity/CWBSanitySample.js",
+        "CWBOLBSanity/CWBSanity.js"
+    ]
+}

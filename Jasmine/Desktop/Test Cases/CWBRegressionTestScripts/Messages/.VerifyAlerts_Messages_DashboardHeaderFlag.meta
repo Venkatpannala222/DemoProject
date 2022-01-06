@@ -1,0 +1,7 @@
+{
+    "testCaseName": "VerifyAlerts_Messages_DashboardHeaderFlag",
+    "testSuiteName": "Test Cases/CWBRegressionTestScripts/Messages",
+    "channelName": "Desktop",
+    "usedBy": [],
+    "userCode": true
+}

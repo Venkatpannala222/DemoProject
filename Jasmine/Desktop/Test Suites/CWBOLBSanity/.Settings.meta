@@ -1,0 +1,13 @@
+{
+    "groupName": "Test Suites/CWBOLBSanity",
+    "testSuiteName": "Settings",
+    "testCaseInfo": [
+        "CWBSanityTestScripts/Common/Settings.js",
+        "CWBSanityTestScripts/Common/AllAccounts.js",
+        "CWBSanityTestScripts/Accountsmodule/Sample.js",
+        "CWBSanityTestScripts/Settings/VerifyEditAddress.js",
+        "CWBSanityTestScripts/Settings/ValidateFavAccountPreference.js",
+        "CWBSanityTestScripts/Settings/ValidateSetDefaultAccount.js"
+    ],
+    "usedBy": []
+}

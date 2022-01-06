@@ -1,0 +1,9 @@
+{
+    "groupName": "Test Suites/CWBOLBSanity",
+    "testSuiteName": "AccountsDashboard",
+    "testCaseInfo": [
+        "RBTestScripts/Accounts/VerifyAccountsLandingPage.js",
+        "RBTestScripts/Common/AllAccounts.js"
+    ],
+    "usedBy": []
+}

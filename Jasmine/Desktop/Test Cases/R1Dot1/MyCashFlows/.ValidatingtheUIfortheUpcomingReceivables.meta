@@ -1,0 +1,10 @@
+{
+    "testCaseName": "ValidatingtheUIfortheUpcomingReceivables",
+    "testSuiteName": "Test Cases/R1Dot1/MyCashFlows",
+    "channelName": "Desktop",
+    "usedBy": [
+        "CWBAutomation/SelectTabs_Receivable.js",
+        "CWBAutomation/Receivables.js"
+    ],
+    "userCode": true
+}

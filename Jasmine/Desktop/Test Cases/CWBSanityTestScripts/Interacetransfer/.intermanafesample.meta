@@ -1,0 +1,31 @@
+{
+    "testCaseName": "intermanafesample",
+    "testSuiteName": "Test Cases/CWBSanityTestScripts/Interacetransfer",
+    "channelName": "Desktop",
+    "usedBy": [],
+    "steps": [
+        {
+            "displayReady": true,
+            "actionName": "Click",
+            "actionIconClassName": "assets/widget_icons/tap.svg",
+            "activeActionIconClassName": "assets/widget_icons/activetap.svg",
+            "entity": "frmFastManagePayee.segmentTransfers[0].flxDropdown",
+            "contextMenu": {
+                "isScrollToRowEnabled": true,
+                "isScreenShotEnabled": false
+            },
+            "actualMessage": {
+                "messageType": "Record",
+                "messageData": {
+                    "DeviceID": "web",
+                    "widgetPath": "frmFastManagePayee.segmentTransfers[0].flxDropdown",
+                    "widgetType": "flexcontainer",
+                    "actionType": "click"
+                },
+                "UUID": "834f8278-460c-471c-a244-526119487956"
+            },
+            "codeNotReady": false,
+            "metaEditable": false
+        }
+    ]
+}

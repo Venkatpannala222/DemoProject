@@ -1,0 +1,9 @@
+{
+    "testCaseName": "ValidateMessagesOnDashboard",
+    "testSuiteName": "Test Cases/CWBAutomation/Account",
+    "channelName": "Desktop",
+    "userCode": true,
+    "usedBy": [
+        "CWBAutomation/AccountSuite.js"
+    ]
+}

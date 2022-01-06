@@ -1,0 +1,12 @@
+{
+    "groupName": "Test Suites/CWBAutomation",
+    "testSuiteName": "StopPAP",
+    "testCaseInfo": [
+        "CWBSanityTestScripts/Common/StopPAP.js",
+        "CWBRegressionTestScripts/TransferToOwnAcc/Sample.js",
+        "CWBRegressionTestScripts/StopPAP/VerifyStopPAPLinks.js",
+        "CWBRegressionTestScripts/StopPAP/ValidateStopPAPRequest.js",
+        "CWBRegressionTestScripts/StopPAP/ValidateNewStopPAP_AcknowledgementScreen.js"
+    ],
+    "usedBy": []
+}

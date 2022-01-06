@@ -1,0 +1,9 @@
+{
+    "groupName": "Test Suites/CWBOLBSanity",
+    "testSuiteName": "AccountServices",
+    "testCaseInfo": [
+        "CWBSanityTestScripts/Common/Accountservices.js",
+        "CWBSanityTestScripts/AccountServices/CRADirectDeposit.js"
+    ],
+    "usedBy": []
+}

@@ -1,0 +1,11 @@
+{
+    "testCaseName": "FeebBackFunctionality",
+    "testSuiteName": "Test Cases/CWBSanityTestScripts/FeedBack",
+    "channelName": "Desktop",
+    "userCode": true,
+    "usedBy": [
+        "CWBOLBSanity/FeedBack.js",
+        "CWBOLBSanity/CWBSanitySample.js",
+        "CWBAutomation/FeedBack.js"
+    ]
+}

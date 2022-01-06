@@ -1,0 +1,18 @@
+{
+    "groupName": "Test Suites/CWBAutomation",
+    "testSuiteName": "TransactionsRetail",
+    "testCaseInfo": [
+        "CWBSanityTestScripts/Common/AllAccounts.js",
+        "CWBSanityTestScripts/Common/BillPay.js",
+        "CWBSanityTestScripts/Common/ManageRecipients.js",
+        "CWBSanityTestScripts/Common/Settings.js",
+        "CWBSanityTestScripts/Common/Transactions.js",
+        "CWBSanityTestScripts/Accountsmodule/Sample.js",
+        "CWBRegressionTestScripts/Transactions/TransactionSectionHeaders.js",
+        "CWBRegressionTestScripts/Transactions/TransactionPagination.js",
+        "CWBRegressionTestScripts/Transactions/TransactionDetails.js",
+        "CWBRegressionTestScripts/Transactions/AmountSortValidation.js",
+        "CWBRegressionTestScripts/Transactions/DateSortValidation.js"
+    ],
+    "usedBy": []
+}

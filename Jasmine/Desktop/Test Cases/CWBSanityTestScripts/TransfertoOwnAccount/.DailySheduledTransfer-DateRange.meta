@@ -1,0 +1,10 @@
+{
+    "testCaseName": "DailySheduledTransfer-DateRange",
+    "testSuiteName": "Test Cases/CWBSanityTestScripts/TransfertoOwnAccount",
+    "channelName": "Desktop",
+    "userCode": true,
+    "usedBy": [
+        "CWBOLBSanity/TransfertoOwnAccount.js",
+        "CWBOLBSanity/CWBSanity.js"
+    ]
+}

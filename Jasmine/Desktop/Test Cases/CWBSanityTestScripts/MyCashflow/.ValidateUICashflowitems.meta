@@ -1,0 +1,463 @@
+{
+    "testCaseName": "ValidateUICashflowitems",
+    "testSuiteName": "Test Cases/CWBSanityTestScripts/MyCashflow",
+    "channelName": "Desktop",
+    "steps": [
+        {
+            "displayReady": true,
+            "actionName": "Touch",
+            "actionIconClassName": "assets/widget_icons/tap.svg",
+            "activeActionIconClassName": "assets/widget_icons/activetap.svg",
+            "entity": "frmBBAccountsLanding",
+            "contextMenu": {
+                "isScrollToRowEnabled": false,
+                "isScreenShotEnabled": false
+            },
+            "actualMessage": {
+                "messageType": "Record",
+                "messageData": {
+                    "DeviceID": "web",
+                    "widgetPath": "frmBBAccountsLanding",
+                    "widgetType": "widget",
+                    "actionType": "touch",
+                    "metadata": {
+                        "start": null,
+                        "move": null,
+                        "end": [
+                            93,
+                            99
+                        ]
+                    }
+                },
+                "UUID": "cbbe2462-7dde-4e40-9c0c-eb50a2f286aa"
+            },
+            "codeNotReady": false,
+            "dispMeta": "",
+            "metaEditable": false
+        },
+        {
+            "displayReady": true,
+            "actionName": "Click",
+            "actionIconClassName": "assets/widget_icons/tap.svg",
+            "activeActionIconClassName": "assets/widget_icons/activetap.svg",
+            "entity": "frmBBAccountsLanding.customheader.topmenu.flxMenu",
+            "contextMenu": {
+                "isScrollToRowEnabled": false,
+                "isScreenShotEnabled": false
+            },
+            "actualMessage": {
+                "messageType": "Record",
+                "messageData": {
+                    "DeviceID": "web",
+                    "widgetPath": "frmBBAccountsLanding.customheader.topmenu.flxMenu",
+                    "widgetType": "flexcontainer",
+                    "actionType": "click"
+                },
+                "UUID": "bff8bda7-5a28-42af-a2cc-e568749ec771"
+            },
+            "codeNotReady": false,
+            "metaEditable": false
+        },
+        {
+            "actionName": "Wait",
+            "actionIconClassName": "assets/widget_icons/loading.svg",
+            "activeActionIconClassName": "assets/widget_icons/activeloading.svg",
+            "entity": "Wait in ms",
+            "metaEditable": true,
+            "dispMeta": "1000",
+            "contextMenu": {
+                "isAssertEnabled": false,
+                "isWaitForEnabled": false,
+                "isScrollToWidgetEnabled": false,
+                "isScrollToRowEnabled": false,
+                "isScreenShotEnabled": false
+            },
+            "actualMessage": {
+                "UUID": "ccd707d9-c183-1d8c-baaf-b5e6d743e38d",
+                "messageType": "Wait",
+                "messageData": {
+                    "widgetType": "Wait",
+                    "metadata": {
+                        "waitTimeMS": "1000"
+                    }
+                }
+            },
+            "codeNotReady": false
+        },
+        {
+            "displayReady": true,
+            "actionName": "Touch",
+            "actionIconClassName": "assets/widget_icons/tap.svg",
+            "activeActionIconClassName": "assets/widget_icons/activetap.svg",
+            "entity": "frmBBAccountsLanding",
+            "contextMenu": {
+                "isScrollToRowEnabled": false,
+                "isScreenShotEnabled": false
+            },
+            "actualMessage": {
+                "messageType": "Record",
+                "messageData": {
+                    "DeviceID": "web",
+                    "widgetPath": "frmBBAccountsLanding",
+                    "widgetType": "widget",
+                    "actionType": "touch",
+                    "metadata": {
+                        "start": null,
+                        "move": null,
+                        "end": [
+                            360,
+                            413
+                        ]
+                    }
+                },
+                "UUID": "f36eb06c-4844-486d-b796-2848b0c7e47d"
+            },
+            "codeNotReady": false,
+            "dispMeta": "",
+            "metaEditable": false
+        },
+        {
+            "displayReady": true,
+            "actionName": "Click",
+            "actionIconClassName": "assets/widget_icons/tap.svg",
+            "activeActionIconClassName": "assets/widget_icons/activetap.svg",
+            "entity": "frmBBAccountsLanding.customheader.customhamburger.CashFlowflxRichTextAccountsMenu",
+            "contextMenu": {
+                "isScrollToRowEnabled": false,
+                "isScreenShotEnabled": false
+            },
+            "actualMessage": {
+                "messageType": "Record",
+                "messageData": {
+                    "DeviceID": "web",
+                    "widgetPath": "frmBBAccountsLanding.customheader.customhamburger.CashFlowflxRichTextAccountsMenu",
+                    "widgetType": "flexcontainer",
+                    "actionType": "click"
+                },
+                "UUID": "815fa234-6cb6-4113-b0b2-78c9a4e163c2"
+            },
+            "codeNotReady": false,
+            "metaEditable": false
+        },
+        {
+            "displayReady": true,
+            "actionName": "Touch",
+            "actionIconClassName": "assets/widget_icons/tap.svg",
+            "activeActionIconClassName": "assets/widget_icons/activetap.svg",
+            "entity": "frmBBAccountsLanding",
+            "contextMenu": {
+                "isScrollToRowEnabled": false,
+                "isScreenShotEnabled": false
+            },
+            "actualMessage": {
+                "messageType": "Record",
+                "messageData": {
+                    "DeviceID": "web",
+                    "widgetPath": "frmBBAccountsLanding",
+                    "widgetType": "widget",
+                    "actionType": "touch",
+                    "metadata": {
+                        "start": null,
+                        "move": null,
+                        "end": [
+                            212,
+                            291
+                        ]
+                    }
+                },
+                "UUID": "d51e61b5-3e04-4fe2-b641-62090f19eed8"
+            },
+            "codeNotReady": false,
+            "dispMeta": "",
+            "metaEditable": false
+        },
+        {
+            "actionName": "Wait",
+            "actionIconClassName": "assets/widget_icons/loading.svg",
+            "activeActionIconClassName": "assets/widget_icons/activeloading.svg",
+            "entity": "Wait in ms",
+            "metaEditable": true,
+            "dispMeta": "1000",
+            "contextMenu": {
+                "isAssertEnabled": false,
+                "isWaitForEnabled": false,
+                "isScrollToWidgetEnabled": false,
+                "isScrollToRowEnabled": false,
+                "isScreenShotEnabled": false
+            },
+            "actualMessage": {
+                "UUID": "d82373b8-8a95-1b4e-c1a3-7b8c69e3ca4a",
+                "messageType": "Wait",
+                "messageData": {
+                    "widgetType": "Wait",
+                    "metadata": {
+                        "waitTimeMS": "1000"
+                    }
+                }
+            },
+            "codeNotReady": false
+        },
+        {
+            "displayReady": true,
+            "actionName": "Click",
+            "actionIconClassName": "assets/widget_icons/tap.svg",
+            "activeActionIconClassName": "assets/widget_icons/activetap.svg",
+            "entity": "frmBBAccountsLanding.customheader.customhamburger.CashFlow0flxMyAccounts",
+            "contextMenu": {
+                "isScrollToRowEnabled": false,
+                "isScreenShotEnabled": false
+            },
+            "actualMessage": {
+                "messageType": "Record",
+                "messageData": {
+                    "DeviceID": "web",
+                    "widgetPath": "frmBBAccountsLanding.customheader.customhamburger.CashFlow0flxMyAccounts",
+                    "widgetType": "flexcontainer",
+                    "actionType": "click"
+                },
+                "UUID": "b158f939-bcbd-429d-930e-cdab7fe39cc8"
+            },
+            "codeNotReady": false,
+            "metaEditable": false
+        },
+        {
+            "actionName": "Wait For",
+            "actionIconClassName": "assets/widget_icons/loading.svg",
+            "activeActionIconClassName": "assets/widget_icons/activeloading.svg",
+            "entity": "frmAccountSetupStatus",
+            "contextMenu": {
+                "isAssertEnabled": false,
+                "isWaitForEnabled": false,
+                "isScrollToRowEnabled": false,
+                "isScreenShotEnabled": false
+            },
+            "actualMessage": {
+                "UUID": "2db46928-3089-7b20-d44b-ba902b818955",
+                "messageType": "waitFor",
+                "messageData": {
+                    "widgetType": "waitFor",
+                    "metadata": {
+                        "waitFor": "frmAccountSetupStatus"
+                    }
+                }
+            },
+            "codeNotReady": false
+        },
+        {
+            "displayReady": true,
+            "actionName": "Touch",
+            "actionIconClassName": "assets/widget_icons/tap.svg",
+            "activeActionIconClassName": "assets/widget_icons/activetap.svg",
+            "entity": "frmAccountSetupStatus",
+            "contextMenu": {
+                "isScrollToRowEnabled": false,
+                "isScreenShotEnabled": false
+            },
+            "actualMessage": {
+                "messageType": "Record",
+                "messageData": {
+                    "DeviceID": "web",
+                    "widgetPath": "frmAccountSetupStatus",
+                    "widgetType": "widget",
+                    "actionType": "touch",
+                    "metadata": {
+                        "start": null,
+                        "move": null,
+                        "end": [
+                            188,
+                            218
+                        ]
+                    }
+                },
+                "UUID": "7e00be66-552a-4045-93f5-f8dd85ba0b64"
+            },
+            "codeNotReady": false,
+            "dispMeta": "",
+            "metaEditable": false
+        },
+        {
+            "displayReady": true,
+            "actionName": "Click",
+            "actionIconClassName": "assets/widget_icons/tap.svg",
+            "activeActionIconClassName": "assets/widget_icons/activetap.svg",
+            "entity": "frmAccountSetupStatus.heading.rtxCashFlow",
+            "contextMenu": {
+                "isScrollToRowEnabled": false,
+                "isScreenShotEnabled": false
+            },
+            "actualMessage": {
+                "messageType": "Record",
+                "messageData": {
+                    "DeviceID": "web",
+                    "widgetPath": "frmAccountSetupStatus.heading.rtxCashFlow",
+                    "widgetType": "richtext",
+                    "actionType": "click",
+                    "metadata": {
+                        "linkText": "Cash Flow "
+                    }
+                },
+                "UUID": "0c35adc1-7be2-4b7b-bfd8-391d5af40b97"
+            },
+            "codeNotReady": false,
+            "dispMeta": "Cash Flow ",
+            "metaEditable": false
+        },
+        {
+            "actionName": "Wait For",
+            "actionIconClassName": "assets/widget_icons/loading.svg",
+            "activeActionIconClassName": "assets/widget_icons/activeloading.svg",
+            "entity": "frmAccountSetupStatus",
+            "contextMenu": {
+                "isAssertEnabled": false,
+                "isWaitForEnabled": false,
+                "isScrollToRowEnabled": false,
+                "isScreenShotEnabled": false
+            },
+            "actualMessage": {
+                "UUID": "7a872647-c27e-d7e4-89c0-8cd222a6b2d2",
+                "messageType": "waitFor",
+                "messageData": {
+                    "widgetType": "waitFor",
+                    "metadata": {
+                        "waitFor": "frmAccountSetupStatus"
+                    }
+                }
+            },
+            "codeNotReady": false
+        },
+        {
+            "displayReady": true,
+            "actionName": "Touch",
+            "actionIconClassName": "assets/widget_icons/tap.svg",
+            "activeActionIconClassName": "assets/widget_icons/activetap.svg",
+            "entity": "frmAccountSetupStatus",
+            "contextMenu": {
+                "isScrollToRowEnabled": false,
+                "isScreenShotEnabled": false
+            },
+            "actualMessage": {
+                "messageType": "Record",
+                "messageData": {
+                    "DeviceID": "web",
+                    "widgetPath": "frmAccountSetupStatus",
+                    "widgetType": "widget",
+                    "actionType": "touch",
+                    "metadata": {
+                        "start": null,
+                        "move": null,
+                        "end": [
+                            330,
+                            214
+                        ]
+                    }
+                },
+                "UUID": "073430fe-5675-4018-8a7d-d916eefafe32"
+            },
+            "codeNotReady": false,
+            "dispMeta": "",
+            "metaEditable": false
+        },
+        {
+            "displayReady": true,
+            "actionName": "Click",
+            "actionIconClassName": "assets/widget_icons/tap.svg",
+            "activeActionIconClassName": "assets/widget_icons/activetap.svg",
+            "entity": "frmAccountSetupStatus.heading.btnReceivables",
+            "contextMenu": {
+                "isScrollToRowEnabled": false,
+                "isScreenShotEnabled": false
+            },
+            "actualMessage": {
+                "messageType": "Record",
+                "messageData": {
+                    "DeviceID": "web",
+                    "widgetPath": "frmAccountSetupStatus.heading.btnReceivables",
+                    "widgetType": "button",
+                    "actionType": "click"
+                },
+                "UUID": "4c642b97-96f2-4e64-86da-47ea9c14676f"
+            },
+            "codeNotReady": false,
+            "metaEditable": false
+        },
+        {
+            "actionName": "Wait For",
+            "actionIconClassName": "assets/widget_icons/loading.svg",
+            "activeActionIconClassName": "assets/widget_icons/activeloading.svg",
+            "entity": "frmAccountSetupStatus",
+            "contextMenu": {
+                "isAssertEnabled": false,
+                "isWaitForEnabled": false,
+                "isScrollToRowEnabled": false,
+                "isScreenShotEnabled": false
+            },
+            "actualMessage": {
+                "UUID": "2086133d-71a3-2ccc-d5e4-d6109e0833ac",
+                "messageType": "waitFor",
+                "messageData": {
+                    "widgetType": "waitFor",
+                    "metadata": {
+                        "waitFor": "frmAccountSetupStatus"
+                    }
+                }
+            },
+            "codeNotReady": false
+        },
+        {
+            "displayReady": true,
+            "actionName": "Touch",
+            "actionIconClassName": "assets/widget_icons/tap.svg",
+            "activeActionIconClassName": "assets/widget_icons/activetap.svg",
+            "entity": "frmAccountSetupStatus",
+            "contextMenu": {
+                "isScrollToRowEnabled": false,
+                "isScreenShotEnabled": false
+            },
+            "actualMessage": {
+                "messageType": "Record",
+                "messageData": {
+                    "DeviceID": "web",
+                    "widgetPath": "frmAccountSetupStatus",
+                    "widgetType": "widget",
+                    "actionType": "touch",
+                    "metadata": {
+                        "start": null,
+                        "move": null,
+                        "end": [
+                            418,
+                            214
+                        ]
+                    }
+                },
+                "UUID": "461acc02-2242-4219-b831-ad2c488ed4ad"
+            },
+            "codeNotReady": false,
+            "dispMeta": "",
+            "metaEditable": false
+        },
+        {
+            "displayReady": true,
+            "actionName": "Click",
+            "actionIconClassName": "assets/widget_icons/tap.svg",
+            "activeActionIconClassName": "assets/widget_icons/activetap.svg",
+            "entity": "frmAccountSetupStatus.heading.btnPayables",
+            "contextMenu": {
+                "isScrollToRowEnabled": false,
+                "isScreenShotEnabled": false
+            },
+            "actualMessage": {
+                "messageType": "Record",
+                "messageData": {
+                    "DeviceID": "web",
+                    "widgetPath": "frmAccountSetupStatus.heading.btnPayables",
+                    "widgetType": "button",
+                    "actionType": "click"
+                },
+                "UUID": "778552ab-65b3-4319-a148-172af2c78c0f"
+            },
+            "codeNotReady": false,
+            "metaEditable": false
+        }
+    ],
+    "usedBy": []
+}

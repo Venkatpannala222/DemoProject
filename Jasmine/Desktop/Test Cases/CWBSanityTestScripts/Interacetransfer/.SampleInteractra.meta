@@ -1,0 +1,216 @@
+{
+    "testCaseName": "SampleInteractra",
+    "testSuiteName": "Test Cases/CWBSanityTestScripts/Interacetransfer",
+    "channelName": "Desktop",
+    "steps": [
+        {
+            "displayReady": true,
+            "actionName": "Click",
+            "actionIconClassName": "assets/widget_icons/tap.svg",
+            "activeActionIconClassName": "assets/widget_icons/activetap.svg",
+            "entity": "frmAccountsLanding.customheader.topmenu.flxTransfersAndPay",
+            "contextMenu": {
+                "isScrollToRowEnabled": false,
+                "isScreenShotEnabled": false
+            },
+            "actualMessage": {
+                "messageType": "Record",
+                "messageData": {
+                    "DeviceID": "web",
+                    "widgetPath": "frmAccountsLanding.customheader.topmenu.flxTransfersAndPay",
+                    "widgetType": "flexcontainer",
+                    "actionType": "click"
+                },
+                "UUID": "795040c9-e380-4de8-9692-61a01afe9c8f"
+            },
+            "codeNotReady": false,
+            "metaEditable": false
+        },
+        {
+            "displayReady": true,
+            "actionName": "Click",
+            "actionIconClassName": "assets/widget_icons/tap.svg",
+            "activeActionIconClassName": "assets/widget_icons/activetap.svg",
+            "entity": "frmAccountsLanding.customheader.topmenu.flxeTransfer",
+            "contextMenu": {
+                "isScrollToRowEnabled": false,
+                "isScreenShotEnabled": false
+            },
+            "actualMessage": {
+                "messageType": "Record",
+                "messageData": {
+                    "DeviceID": "web",
+                    "widgetPath": "frmAccountsLanding.customheader.topmenu.flxeTransfer",
+                    "widgetType": "flexcontainer",
+                    "actionType": "click"
+                },
+                "UUID": "756b24b2-56e9-4b0f-b857-6af3b6405f74"
+            },
+            "codeNotReady": false,
+            "metaEditable": false
+        },
+        {
+            "displayReady": true,
+            "actionName": "Click",
+            "actionIconClassName": "assets/widget_icons/tap.svg",
+            "activeActionIconClassName": "assets/widget_icons/activetap.svg",
+            "entity": "frmeTransferSendMoney.flxTransferHistory",
+            "contextMenu": {
+                "isScrollToRowEnabled": false,
+                "isScreenShotEnabled": false
+            },
+            "actualMessage": {
+                "messageType": "Record",
+                "messageData": {
+                    "DeviceID": "web",
+                    "widgetPath": "frmeTransferSendMoney.flxTransferHistory",
+                    "widgetType": "flexcontainer",
+                    "actionType": "click"
+                },
+                "UUID": "30c91634-9a92-4b23-a3b6-b3daad26ea76"
+            },
+            "codeNotReady": false,
+            "metaEditable": false
+        },
+        {
+            "displayReady": true,
+            "actionName": "Select Date",
+            "actionIconClassName": "assets/widget_icons/calender.svg",
+            "activeActionIconClassName": "assets/widget_icons/activecalender.svg",
+            "entity": "frmeTransferHistory.calFrom",
+            "contextMenu": {
+                "isScrollToRowEnabled": false,
+                "isScreenShotEnabled": false
+            },
+            "actualMessage": {
+                "messageType": "Record",
+                "messageData": {
+                    "DeviceID": "web",
+                    "widgetPath": "frmeTransferHistory.calFrom",
+                    "widgetType": "calendar",
+                    "actionType": "selectDate",
+                    "metadata": {
+                        "selection": [
+                            7,
+                            15,
+                            2021
+                        ]
+                    }
+                },
+                "UUID": "fe7e6034-d6f5-48c5-893d-0026a4afaa15"
+            },
+            "codeNotReady": false,
+            "dispMeta": [
+                7,
+                15,
+                2021
+            ],
+            "metaEditable": false
+        },
+        {
+            "displayReady": true,
+            "actionName": "Select Date",
+            "actionIconClassName": "assets/widget_icons/calender.svg",
+            "activeActionIconClassName": "assets/widget_icons/activecalender.svg",
+            "entity": "frmeTransferHistory.calTo",
+            "contextMenu": {
+                "isScrollToRowEnabled": false,
+                "isScreenShotEnabled": false
+            },
+            "actualMessage": {
+                "messageType": "Record",
+                "messageData": {
+                    "DeviceID": "web",
+                    "widgetPath": "frmeTransferHistory.calTo",
+                    "widgetType": "calendar",
+                    "actionType": "selectDate",
+                    "metadata": {
+                        "selection": [
+                            7,
+                            22,
+                            2021
+                        ]
+                    }
+                },
+                "UUID": "9de25763-cfb2-458c-8b4f-b62e7022695b"
+            },
+            "codeNotReady": false,
+            "dispMeta": [
+                7,
+                22,
+                2021
+            ],
+            "metaEditable": false
+        },
+        {
+            "displayReady": true,
+            "actionName": "Click",
+            "actionIconClassName": "assets/widget_icons/tap.svg",
+            "activeActionIconClassName": "assets/widget_icons/activetap.svg",
+            "entity": "frmeTransferHistory.btnSearch",
+            "contextMenu": {
+                "isScrollToRowEnabled": false,
+                "isScreenShotEnabled": false
+            },
+            "actualMessage": {
+                "messageType": "Record",
+                "messageData": {
+                    "DeviceID": "web",
+                    "widgetPath": "frmeTransferHistory.btnSearch",
+                    "widgetType": "button",
+                    "actionType": "click"
+                },
+                "UUID": "120ce829-2993-4cdc-a863-59248afac073"
+            },
+            "codeNotReady": false,
+            "metaEditable": false
+        },
+        {
+            "displayReady": true,
+            "actionName": "Click",
+            "actionIconClassName": "assets/widget_icons/tap.svg",
+            "activeActionIconClassName": "assets/widget_icons/activetap.svg",
+            "entity": "frmeTransferHistory.segmenteTransfers[0].flxSendFrom",
+            "contextMenu": {
+                "isScrollToRowEnabled": true,
+                "isScreenShotEnabled": false
+            },
+            "actualMessage": {
+                "messageType": "Record",
+                "messageData": {
+                    "DeviceID": "web",
+                    "widgetPath": "frmeTransferHistory.segmenteTransfers[0].flxSendFrom",
+                    "widgetType": "flexcontainer",
+                    "actionType": "click"
+                },
+                "UUID": "6470edce-8baa-4132-a3ee-17699d2612f4"
+            },
+            "codeNotReady": false,
+            "metaEditable": false
+        },
+        {
+            "displayReady": true,
+            "actionName": "Click",
+            "actionIconClassName": "assets/widget_icons/tap.svg",
+            "activeActionIconClassName": "assets/widget_icons/activetap.svg",
+            "entity": "frmeTransferHistory.flxSearchNoResults",
+            "contextMenu": {
+                "isScrollToRowEnabled": false,
+                "isScreenShotEnabled": false
+            },
+            "actualMessage": {
+                "messageType": "Record",
+                "messageData": {
+                    "DeviceID": "web",
+                    "widgetPath": "frmeTransferHistory.flxSearchNoResults",
+                    "widgetType": "flexcontainer",
+                    "actionType": "click"
+                },
+                "UUID": "6facd83e-d5ab-4e75-aa44-788d4370dd0b"
+            },
+            "codeNotReady": false,
+            "metaEditable": false
+        }
+    ],
+    "usedBy": []
+}

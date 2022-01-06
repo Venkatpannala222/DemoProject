@@ -1,0 +1,7 @@
+{
+    "testCaseName": "DailySheduledTransfer-DateRange",
+    "testSuiteName": "Test Cases/CWBRegressionTestScripts/TransferToOwnAcc",
+    "channelName": "Desktop",
+    "userCode": true,
+    "usedBy": []
+}

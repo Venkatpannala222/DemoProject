@@ -1,0 +1,11 @@
+{
+    "testCaseName": "NavigatetoTaxHistoryViaProvincialTaxes",
+    "testSuiteName": "Test Cases/CWBSanityTestScripts/PayBusinessTax",
+    "channelName": "Desktop",
+    "usedBy": [
+        "CWBOLBSanity/CWBSanitySample.js",
+        "CWBOLBSanity/CWBSanity.js",
+        "CWBOLBSanity/PayBusinessTaxes.js"
+    ],
+    "userCode": true
+}

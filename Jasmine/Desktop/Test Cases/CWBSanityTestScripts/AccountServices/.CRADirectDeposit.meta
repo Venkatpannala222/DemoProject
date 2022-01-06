@@ -1,0 +1,10 @@
+{
+    "testCaseName": "CRADirectDeposit",
+    "testSuiteName": "Test Cases/CWBSanityTestScripts/AccountServices",
+    "channelName": "Desktop",
+    "usedBy": [
+        "CWBOLBSanity/AccountServices.js",
+        "CWBOLBSanity/CWBSanity.js"
+    ],
+    "userCode": true
+}

@@ -1,0 +1,9 @@
+{
+    "testCaseName": "CRAFileandRemitTemplate2",
+    "testSuiteName": "Test Cases/CWBRegressionTestScripts/CRATaxes",
+    "channelName": "Desktop",
+    "userCode": true,
+    "usedBy": [
+        "CWBAutomation/CRATaxes.js"
+    ]
+}

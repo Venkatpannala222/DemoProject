@@ -1,0 +1,9 @@
+{
+    "testCaseName": "Verify_Cancel_Feedback",
+    "testSuiteName": "Test Cases/CWBRegressionTestScripts/FeedBack",
+    "channelName": "Desktop",
+    "usedBy": [
+        "CWBAutomation/FeedBack.js"
+    ],
+    "userCode": true
+}

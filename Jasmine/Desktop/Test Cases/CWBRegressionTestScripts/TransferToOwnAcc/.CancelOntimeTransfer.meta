@@ -1,0 +1,7 @@
+{
+    "testCaseName": "CancelOntimeTransfer",
+    "testSuiteName": "Test Cases/CWBRegressionTestScripts/TransferToOwnAcc",
+    "channelName": "Desktop",
+    "userCode": true,
+    "usedBy": []
+}

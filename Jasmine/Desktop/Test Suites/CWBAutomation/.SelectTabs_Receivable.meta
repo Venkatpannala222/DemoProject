@@ -1,0 +1,8 @@
+{
+    "groupName": "Test Suites/CWBAutomation",
+    "testSuiteName": "SelectTabs_Receivable",
+    "testCaseInfo": [
+        "R1Dot1/MyCashFlows/ValidatingtheUIfortheUpcomingReceivables.js"
+    ],
+    "usedBy": []
+}

@@ -1,0 +1,7 @@
+{
+    "testCaseName": "CreditCardAcc_ScrolToTranscations",
+    "testSuiteName": "Test Cases/CWBAutomation/Account",
+    "channelName": "Desktop",
+    "userCode": true,
+    "usedBy": []
+}

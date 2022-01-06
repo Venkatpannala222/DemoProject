@@ -1,0 +1,9 @@
+{
+    "testCaseName": "VerifyPostLoginFooterMenu",
+    "testSuiteName": "Test Cases/CWBRegressionTestScripts/Account",
+    "channelName": "Desktop",
+    "usedBy": [
+        "CWBAutomation/PostLoginFooterMenu.js"
+    ],
+    "userCode": true
+}

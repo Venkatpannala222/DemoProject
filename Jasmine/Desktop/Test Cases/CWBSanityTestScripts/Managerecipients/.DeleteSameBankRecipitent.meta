@@ -1,0 +1,10 @@
+{
+    "testCaseName": "DeleteSameBankRecipitent",
+    "testSuiteName": "Test Cases/CWBSanityTestScripts/Managerecipients",
+    "channelName": "Desktop",
+    "userCode": true,
+    "usedBy": [
+        "CWBOLBSanity/CWBSanitySample.js",
+        "CWBOLBSanity/CWBSanity.js"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "groupName": "Test Suites/CWBOLBSanity",
+    "testSuiteName": "PayBusinessTaxes",
+    "testCaseInfo": [
+        "CWBSanityTestScripts/Common/AllAccounts.js",
+        "CWBSanityTestScripts/Common/PayBussinessTaxes.js",
+        "CWBSanityTestScripts/Accountsmodule/Sample.js",
+        "CWBSanityTestScripts/PayBusinessTax/AddandRemoveProvincialTaxes.js",
+        "CWBSanityTestScripts/PayBusinessTax/RemoveFormofProvincialTaxes.js",
+        "CWBSanityTestScripts/PayBusinessTax/VerifyPayBusinessCRATaxes.js",
+        "CWBSanityTestScripts/PayBusinessTax/TaxHistorynavigationViaCRA.js",
+        "CWBSanityTestScripts/PayBusinessTax/NavigatetoTaxHistoryViaProvincialTaxes.js"
+    ],
+    "usedBy": []
+}

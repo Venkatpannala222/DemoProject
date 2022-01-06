@@ -1,0 +1,12 @@
+{
+    "groupName": "Test Suites/CWBOLBSanity",
+    "testSuiteName": "ManageRecipient",
+    "testCaseInfo": [
+        "CWBSanityTestScripts/Common/ManageRecipients.js",
+        "CWBSanityTestScripts/Common/AllAccounts.js",
+        "CWBSanityTestScripts/Accountsmodule/Sample.js",
+        "CWBSanityTestScripts/Managerecipients/AddSameBankRecipitent.js",
+        "CWBSanityTestScripts/Managerecipients/VerifyRecipitentsList.js"
+    ],
+    "usedBy": []
+}

@@ -1,0 +1,31 @@
+{
+    "groupName": "Test Suites/CWBAutomation",
+    "testSuiteName": "TransferToOwnAcc",
+    "testCaseInfo": [
+        "CWBSanityTestScripts/Common/Transfers.js",
+        "CWBSanityTestScripts/Common/AllAccounts.js",
+        "CWBSanityTestScripts/Common/ManageRecipients.js",
+        "CWBRegressionTestScripts/TransferToOwnAcc/Sample.js",
+        "CWBRegressionTestScripts/TransferToOwnAcc/CancelOntimeTransfer.js",
+        "CWBRegressionTestScripts/TransferToOwnAcc/ClickNoButton_CancelPopup.js",
+        "CWBRegressionTestScripts/TransferToOwnAcc/DailySheduledTransfer-DateRange.js",
+        "CWBRegressionTestScripts/TransferToOwnAcc/DailySheduledTransfer-Occurences.js",
+        "CWBRegressionTestScripts/TransferToOwnAcc/HalfYearlySheduledTransfer-DateRange.js",
+        "CWBRegressionTestScripts/TransferToOwnAcc/HalfYearlySheduledTransfer-Occurences.js",
+        "CWBRegressionTestScripts/TransferToOwnAcc/ModifyOneTimeTransfer.js",
+        "CWBRegressionTestScripts/TransferToOwnAcc/MonthlySheduledTransfer-DateRange.js",
+        "CWBRegressionTestScripts/TransferToOwnAcc/MonthlySheduledTransfer-Occurences.js",
+        "CWBRegressionTestScripts/TransferToOwnAcc/NaviagteToAddCWBAccount_TransferLanding.js",
+        "CWBRegressionTestScripts/TransferToOwnAcc/OwnTransferVerifyConfirmation.js",
+        "CWBRegressionTestScripts/TransferToOwnAcc/QuarterlySheduledTransfer-DateRange.js",
+        "CWBRegressionTestScripts/TransferToOwnAcc/QuarterlySheduledTransfer-Occurences.js",
+        "CWBRegressionTestScripts/TransferToOwnAcc/VerifyNewTransferButton_SuccessScreen.js",
+        "CWBRegressionTestScripts/TransferToOwnAcc/VerifyOwnTransferSuccessScreen.js",
+        "CWBRegressionTestScripts/TransferToOwnAcc/VerifyTransferUnderAccounts.js",
+        "CWBRegressionTestScripts/TransferToOwnAcc/WeeklyScheduleTransfer-DateRange.js",
+        "CWBRegressionTestScripts/TransferToOwnAcc/WeeklySheduledTransfer-Occurences.js",
+        "CWBRegressionTestScripts/TransferToOwnAcc/YearlySheduledTransfer-DateRange.js",
+        "CWBRegressionTestScripts/TransferToOwnAcc/YearlySheduledTransfer-Occurences.js"
+    ],
+    "usedBy": []
+}

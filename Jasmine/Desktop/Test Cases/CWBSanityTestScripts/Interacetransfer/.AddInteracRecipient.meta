@@ -1,0 +1,11 @@
+{
+    "testCaseName": "AddInteracRecipient",
+    "testSuiteName": "Test Cases/CWBSanityTestScripts/Interacetransfer",
+    "channelName": "Desktop",
+    "usedBy": [
+        "CWBOLBSanity/CWBSanitySample.js",
+        "CWBOLBSanity/CWBSanity.js",
+        "CWBOLBSanity/InteraceEtransfer.js"
+    ],
+    "userCode": true
+}

@@ -1,0 +1,17 @@
+{
+    "groupName": "Test Suites/CWBOLBSanity",
+    "testSuiteName": "TransfertoOwnAccount",
+    "testCaseInfo": [
+        "CWBSanityTestScripts/Common/Transfers.js",
+        "CWBSanityTestScripts/Common/AllAccounts.js",
+        "CWBSanityTestScripts/Accountsmodule/Sample.js",
+        "CWBSanityTestScripts/TransfertoOwnAccount/OneTimeTransfer.js",
+        "CWBSanityTestScripts/TransfertoOwnAccount/SheduledOneTimeTransfer.js",
+        "CWBSanityTestScripts/TransfertoOwnAccount/DailySheduledTransfer-DateRange.js",
+        "CWBSanityTestScripts/TransfertoOwnAccount/DailySheduledTransfer-Occurences.js",
+        "CWBSanityTestScripts/TransfertoOwnAccount/CancelTransfer.js",
+        "CWBSanityTestScripts/TransfertoOwnAccount/RepeatSendMoney.js",
+        "CWBSanityTestScripts/TransfertoOwnAccount/VerifySearch_From_To_AccList.js"
+    ],
+    "usedBy": []
+}

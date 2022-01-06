@@ -1,0 +1,33 @@
+{
+    "testCaseName": "Sample",
+    "testSuiteName": "Test Cases/CWBSanityTestScripts/Accountsmodule",
+    "channelName": "Desktop",
+    "usedBy": [
+        "CWBOLBSanity/Accountssuite.js",
+        "CWBOLBSanity/TransfertoOwnAccount.js",
+        "CWBOLBSanity/TransferToSameBank.js",
+        "CWBOLBSanity/Messages.js",
+        "CWBOLBSanity/Settings.js",
+        "CWBOLBSanity/ManageRecipient.js",
+        "CWBOLBSanity/BillPay.js",
+        "CWBOLBSanity/FeedBack.js",
+        "CWBOLBSanity/Signout.js",
+        "CWBOLBSanity/InteraceEtransfer.js",
+        "CWBOLBSanity/PayBusinessTaxes.js",
+        "CWBOLBSanity/Usermanagement.js",
+        "CWBOLBSanity/CWBSanitySample.js",
+        "CWBOLBSanity/CRABusinessTaxes.js",
+        "CWBOLBSanity/CWBSanity.js",
+        "CWBAutomation/CWBRegression1.js",
+        "CWBAutomation/CWBRegression2.js",
+        "CWBAutomation/CWBRegressionConsolidated1.js",
+        "CWBAutomation/CWBRegressionRetailUser.js",
+        "CWBAutomation/CWBRegressionBBuser.js",
+        "CWBAutomation/PostLoginFooterMenu.js",
+        "CWBAutomation/FeedBack.js",
+        "CWBAutomation/Settings.js",
+        "CWBAutomation/StopChequeRequest.js",
+        "CWBOLBSanity/DebugSuite.js"
+    ],
+    "userCode": true
+}

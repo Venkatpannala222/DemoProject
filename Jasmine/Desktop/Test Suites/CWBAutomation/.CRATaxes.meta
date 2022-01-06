@@ -1,0 +1,17 @@
+{
+    "groupName": "Test Suites/CWBAutomation",
+    "testSuiteName": "CRATaxes",
+    "testCaseInfo": [
+        "CWBSanityTestScripts/Common/CRATaxes.js",
+        "CWBSanityTestScripts/Accountsmodule/Sample.js",
+        "CWBRegressionTestScripts/CRATaxes/CRATemplate1FieldValidation.js",
+        "CWBRegressionTestScripts/CRATaxes/CRAFileandRemitTemplate1.js",
+        "CWBRegressionTestScripts/CRATaxes/CRATaxesList.js",
+        "CWBRegressionTestScripts/CRATaxes/CRATemplate2FieldValidation.js",
+        "CWBRegressionTestScripts/CRATaxes/CRAFileandRemitTemplate2.js"
+    ],
+    "usedBy": [
+        "RBTestPlan.js",
+        "tempPlan.js"
+    ]
+}
